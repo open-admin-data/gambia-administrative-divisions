@@ -1,0 +1,47 @@
+{
+  "id": "GM0804",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kiang Central",
+    "en": "Kiang Central",
+    "slug": "kiang-central-gm0804"
+  },
+  "code": {
+    "id": "GM0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM08",
+    "level": 1,
+    "name": {
+      "local": "Lower River",
+      "en": "Lower River",
+      "slug": "lower-river-gm08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.409",
+    "lon": "-15.756"
+  },
+  "metadata": {},
+  "source": {}
+}

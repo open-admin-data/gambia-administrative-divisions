@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM040101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Brikamaba",
+      "en": "Brikamaba",
+      "slug": "brikamaba-gm040101"
+    },
+    "code": {
+      "id": "GM040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0401",
+      "level": 2,
+      "name": {
+        "local": "Lower Fuladu West",
+        "en": "Lower Fuladu West",
+        "slug": "lower-fuladu-west-gm0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0401",
+        "level": 2,
+        "name": {
+          "local": "Lower Fuladu West",
+          "en": "Lower Fuladu West",
+          "slug": "lower-fuladu-west-gm0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.548",
+      "lon": "-14.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM040102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fulabantang",
+      "en": "Fulabantang",
+      "slug": "fulabantang-gm040102"
+    },
+    "code": {
+      "id": "GM040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0401",
+      "level": 2,
+      "name": {
+        "local": "Lower Fuladu West",
+        "en": "Lower Fuladu West",
+        "slug": "lower-fuladu-west-gm0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0401",
+        "level": 2,
+        "name": {
+          "local": "Lower Fuladu West",
+          "en": "Lower Fuladu West",
+          "slug": "lower-fuladu-west-gm0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.495",
+      "lon": "-14.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM040103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kerewan",
+      "en": "Kerewan",
+      "slug": "kerewan-gm040103"
+    },
+    "code": {
+      "id": "GM040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0401",
+      "level": 2,
+      "name": {
+        "local": "Lower Fuladu West",
+        "en": "Lower Fuladu West",
+        "slug": "lower-fuladu-west-gm0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0401",
+        "level": 2,
+        "name": {
+          "local": "Lower Fuladu West",
+          "en": "Lower Fuladu West",
+          "slug": "lower-fuladu-west-gm0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.522",
+      "lon": "-14.892"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

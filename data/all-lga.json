@@ -1,0 +1,242 @@
+[
+  {
+    "id": "GM01",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Banjul City Council",
+      "en": "Banjul City Council",
+      "slug": "banjul-city-council-gm01"
+    },
+    "code": {
+      "id": "GM01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "ward": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.458",
+      "lon": "-16.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM07",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central River North",
+      "en": "Central River North",
+      "slug": "central-river-north-gm07"
+    },
+    "code": {
+      "id": "GM07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.628",
+      "lon": "-14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM04",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central River South",
+      "en": "Central River South",
+      "slug": "central-river-south-gm04"
+    },
+    "code": {
+      "id": "GM04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.523",
+      "lon": "-14.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM05",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kanifing Municipal Council",
+      "en": "Kanifing Municipal Council",
+      "slug": "kanifing-municipal-council-gm05"
+    },
+    "code": {
+      "id": "GM05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.435",
+      "lon": "-16.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM08",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lower River",
+      "en": "Lower River",
+      "slug": "lower-river-gm08"
+    },
+    "code": {
+      "id": "GM08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.4",
+      "lon": "-15.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM06",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "North Bank",
+      "en": "North Bank",
+      "slug": "north-bank-gm06"
+    },
+    "code": {
+      "id": "GM06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.487",
+      "lon": "-16.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM02",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Upper River",
+      "en": "Upper River",
+      "slug": "upper-river-gm02"
+    },
+    "code": {
+      "id": "GM02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.398",
+      "lon": "-14.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM03",
+    "level": 1,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Coast",
+      "en": "West Coast",
+      "slug": "west-coast-gm03"
+    },
+    "code": {
+      "id": "GM03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.244",
+      "lon": "-16.298"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

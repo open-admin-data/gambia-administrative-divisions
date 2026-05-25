@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GM060501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Farafenni",
+      "en": "Farafenni",
+      "slug": "farafenni-gm060501"
+    },
+    "code": {
+      "id": "GM060501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0605",
+      "level": 2,
+      "name": {
+        "local": "Illiassa",
+        "en": "Illiassa",
+        "slug": "illiassa-gm0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0605",
+        "level": 2,
+        "name": {
+          "local": "Illiassa",
+          "en": "Illiassa",
+          "slug": "illiassa-gm0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.572",
+      "lon": "-15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katchang",
+      "en": "Katchang",
+      "slug": "katchang-gm060502"
+    },
+    "code": {
+      "id": "GM060502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0605",
+      "level": 2,
+      "name": {
+        "local": "Illiassa",
+        "en": "Illiassa",
+        "slug": "illiassa-gm0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0605",
+        "level": 2,
+        "name": {
+          "local": "Illiassa",
+          "en": "Illiassa",
+          "slug": "illiassa-gm0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.524",
+      "lon": "-15.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubandarr",
+      "en": "Kubandarr",
+      "slug": "kubandarr-gm060503"
+    },
+    "code": {
+      "id": "GM060503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0605",
+      "level": 2,
+      "name": {
+        "local": "Illiassa",
+        "en": "Illiassa",
+        "slug": "illiassa-gm0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0605",
+        "level": 2,
+        "name": {
+          "local": "Illiassa",
+          "en": "Illiassa",
+          "slug": "illiassa-gm0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.539",
+      "lon": "-15.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "No Kunda",
+      "en": "No Kunda",
+      "slug": "no-kunda-gm060504"
+    },
+    "code": {
+      "id": "GM060504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0605",
+      "level": 2,
+      "name": {
+        "local": "Illiassa",
+        "en": "Illiassa",
+        "slug": "illiassa-gm0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0605",
+        "level": 2,
+        "name": {
+          "local": "Illiassa",
+          "en": "Illiassa",
+          "slug": "illiassa-gm0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.523",
+      "lon": "-15.815"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

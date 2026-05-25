@@ -1,0 +1,47 @@
+{
+  "id": "GM0502",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jeshwang",
+    "en": "Jeshwang",
+    "slug": "jeshwang-gm0502"
+  },
+  "code": {
+    "id": "GM0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM05",
+    "level": 1,
+    "name": {
+      "local": "Kanifing Municipal Council",
+      "en": "Kanifing Municipal Council",
+      "slug": "kanifing-municipal-council-gm05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.451",
+    "lon": "-16.667"
+  },
+  "metadata": {},
+  "source": {}
+}

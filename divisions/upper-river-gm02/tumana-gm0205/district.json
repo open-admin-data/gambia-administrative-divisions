@@ -1,0 +1,47 @@
+{
+  "id": "GM0205",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tumana",
+    "en": "Tumana",
+    "slug": "tumana-gm0205"
+  },
+  "code": {
+    "id": "GM0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM02",
+    "level": 1,
+    "name": {
+      "local": "Upper River",
+      "en": "Upper River",
+      "slug": "upper-river-gm02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.369",
+    "lon": "-14.085"
+  },
+  "metadata": {},
+  "source": {}
+}

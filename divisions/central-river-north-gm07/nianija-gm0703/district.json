@@ -1,0 +1,47 @@
+{
+  "id": "GM0703",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nianija",
+    "en": "Nianija",
+    "slug": "nianija-gm0703"
+  },
+  "code": {
+    "id": "GM0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM07",
+    "level": 1,
+    "name": {
+      "local": "Central River North",
+      "en": "Central River North",
+      "slug": "central-river-north-gm07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.717",
+    "lon": "-15.129"
+  },
+  "metadata": {},
+  "source": {}
+}

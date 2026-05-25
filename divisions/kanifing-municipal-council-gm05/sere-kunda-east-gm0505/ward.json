@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GM050501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abuko",
+      "en": "Abuko",
+      "slug": "abuko-gm050501"
+    },
+    "code": {
+      "id": "GM050501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0505",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda East",
+        "en": "Sere Kunda East",
+        "slug": "sere-kunda-east-gm0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0505",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda East",
+          "en": "Sere Kunda East",
+          "slug": "sere-kunda-east-gm0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.398",
+      "lon": "-16.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faji Kunda",
+      "en": "Faji Kunda",
+      "slug": "faji-kunda-gm050502"
+    },
+    "code": {
+      "id": "GM050502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0505",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda East",
+        "en": "Sere Kunda East",
+        "slug": "sere-kunda-east-gm0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0505",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda East",
+          "en": "Sere Kunda East",
+          "slug": "sere-kunda-east-gm0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.415",
+      "lon": "-16.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Latri Kunda Sabiji",
+      "en": "Latri Kunda Sabiji",
+      "slug": "latri-kunda-sabiji-gm050503"
+    },
+    "code": {
+      "id": "GM050503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0505",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda East",
+        "en": "Sere Kunda East",
+        "slug": "sere-kunda-east-gm0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0505",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda East",
+          "en": "Sere Kunda East",
+          "slug": "sere-kunda-east-gm0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.411",
+      "lon": "-16.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Talinding",
+      "en": "Talinding",
+      "slug": "talinding-gm050504"
+    },
+    "code": {
+      "id": "GM050504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0505",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda East",
+        "en": "Sere Kunda East",
+        "slug": "sere-kunda-east-gm0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0505",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda East",
+          "en": "Sere Kunda East",
+          "slug": "sere-kunda-east-gm0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.428",
+      "lon": "-16.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

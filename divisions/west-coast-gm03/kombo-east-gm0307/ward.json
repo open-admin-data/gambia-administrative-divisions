@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM030701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giboro",
+      "en": "Giboro",
+      "slug": "giboro-gm030701"
+    },
+    "code": {
+      "id": "GM030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0307",
+      "level": 2,
+      "name": {
+        "local": "Kombo East",
+        "en": "Kombo East",
+        "slug": "kombo-east-gm0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0307",
+        "level": 2,
+        "name": {
+          "local": "Kombo East",
+          "en": "Kombo East",
+          "slug": "kombo-east-gm0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.251",
+      "lon": "-16.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafuta",
+      "en": "Kafuta",
+      "slug": "kafuta-gm030702"
+    },
+    "code": {
+      "id": "GM030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0307",
+      "level": 2,
+      "name": {
+        "local": "Kombo East",
+        "en": "Kombo East",
+        "slug": "kombo-east-gm0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0307",
+        "level": 2,
+        "name": {
+          "local": "Kombo East",
+          "en": "Kombo East",
+          "slug": "kombo-east-gm0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.23",
+      "lon": "-16.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pirang",
+      "en": "Pirang",
+      "slug": "pirang-gm030703"
+    },
+    "code": {
+      "id": "GM030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0307",
+      "level": 2,
+      "name": {
+        "local": "Kombo East",
+        "en": "Kombo East",
+        "slug": "kombo-east-gm0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0307",
+        "level": 2,
+        "name": {
+          "local": "Kombo East",
+          "en": "Kombo East",
+          "slug": "kombo-east-gm0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.278",
+      "lon": "-16.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

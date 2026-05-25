@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM070502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Njaw",
+      "en": "Njaw",
+      "slug": "njaw-gm070502"
+    },
+    "code": {
+      "id": "GM070502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0705",
+      "level": 2,
+      "name": {
+        "local": "Upper Saloum",
+        "en": "Upper Saloum",
+        "slug": "upper-saloum-gm0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0705",
+        "level": 2,
+        "name": {
+          "local": "Upper Saloum",
+          "en": "Upper Saloum",
+          "slug": "upper-saloum-gm0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.716",
+      "lon": "-15.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM070501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Panchang",
+      "en": "Panchang",
+      "slug": "panchang-gm070501"
+    },
+    "code": {
+      "id": "GM070501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0705",
+      "level": 2,
+      "name": {
+        "local": "Upper Saloum",
+        "en": "Upper Saloum",
+        "slug": "upper-saloum-gm0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0705",
+        "level": 2,
+        "name": {
+          "local": "Upper Saloum",
+          "en": "Upper Saloum",
+          "slug": "upper-saloum-gm0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.79",
+      "lon": "-15.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

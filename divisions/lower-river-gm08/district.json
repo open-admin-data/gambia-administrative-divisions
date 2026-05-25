@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GM0801",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jarra Central",
+      "en": "Jarra Central",
+      "slug": "jarra-central-gm0801"
+    },
+    "code": {
+      "id": "GM0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.413",
+      "lon": "-15.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0802",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jarra East",
+      "en": "Jarra East",
+      "slug": "jarra-east-gm0802"
+    },
+    "code": {
+      "id": "GM0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.452",
+      "lon": "-15.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0803",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jarra West",
+      "en": "Jarra West",
+      "slug": "jarra-west-gm0803"
+    },
+    "code": {
+      "id": "GM0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.444",
+      "lon": "-15.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0804",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiang Central",
+      "en": "Kiang Central",
+      "slug": "kiang-central-gm0804"
+    },
+    "code": {
+      "id": "GM0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.409",
+      "lon": "-15.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0805",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiang East",
+      "en": "Kiang East",
+      "slug": "kiang-east-gm0805"
+    },
+    "code": {
+      "id": "GM0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.418",
+      "lon": "-15.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0806",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiang West",
+      "en": "Kiang West",
+      "slug": "kiang-west-gm0806"
+    },
+    "code": {
+      "id": "GM0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.345",
+      "lon": "-16.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

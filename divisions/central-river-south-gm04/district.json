@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GM0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Janjanbureh",
+      "en": "Janjanbureh",
+      "slug": "janjanbureh-gm0402"
+    },
+    "code": {
+      "id": "GM0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.541",
+      "lon": "-14.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Fuladu West",
+      "en": "Lower Fuladu West",
+      "slug": "lower-fuladu-west-gm0401"
+    },
+    "code": {
+      "id": "GM0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.525",
+      "lon": "-14.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niamina Dankunku",
+      "en": "Niamina Dankunku",
+      "slug": "niamina-dankunku-gm0403"
+    },
+    "code": {
+      "id": "GM0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.604",
+      "lon": "-15.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niamina East",
+      "en": "Niamina East",
+      "slug": "niamina-east-gm0404"
+    },
+    "code": {
+      "id": "GM0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.634",
+      "lon": "-15.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niamina West",
+      "en": "Niamina West",
+      "slug": "niamina-west-gm0405"
+    },
+    "code": {
+      "id": "GM0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.575",
+      "lon": "-15.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Fuladu West",
+      "en": "Upper Fuladu West",
+      "slug": "upper-fuladu-west-gm0406"
+    },
+    "code": {
+      "id": "GM0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.444",
+      "lon": "-14.736"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

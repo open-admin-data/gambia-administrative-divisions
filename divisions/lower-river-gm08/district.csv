@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0801,Jarra Central,Jarra Central,jarra-central-gm0801,GM0801,2,13.413,-15.415
+GM0802,Jarra East,Jarra East,jarra-east-gm0802,GM0802,2,13.452,-15.261
+GM0803,Jarra West,Jarra West,jarra-west-gm0803,GM0803,2,13.444,-15.542
+GM0804,Kiang Central,Kiang Central,kiang-central-gm0804,GM0804,2,13.409,-15.756
+GM0805,Kiang East,Kiang East,kiang-east-gm0805,GM0805,2,13.418,-15.644
+GM0806,Kiang West,Kiang West,kiang-west-gm0806,GM0806,2,13.345,-16.009

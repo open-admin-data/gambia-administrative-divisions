@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GM0701",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Saloum",
+      "en": "Lower Saloum",
+      "slug": "lower-saloum-gm0701"
+    },
+    "code": {
+      "id": "GM0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.704",
+      "lon": "-15.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0702",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niani",
+      "en": "Niani",
+      "slug": "niani-gm0702"
+    },
+    "code": {
+      "id": "GM0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.675",
+      "lon": "-14.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0703",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nianija",
+      "en": "Nianija",
+      "slug": "nianija-gm0703"
+    },
+    "code": {
+      "id": "GM0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.717",
+      "lon": "-15.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0704",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sami",
+      "en": "Sami",
+      "slug": "sami-gm0704"
+    },
+    "code": {
+      "id": "GM0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.545",
+      "lon": "-14.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0705",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Saloum",
+      "en": "Upper Saloum",
+      "slug": "upper-saloum-gm0705"
+    },
+    "code": {
+      "id": "GM0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.733",
+      "lon": "-15.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

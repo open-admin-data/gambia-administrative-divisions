@@ -1,0 +1,108 @@
+# North Bank — Gambia Administrative Divisions
+
+> 7 districts, 16 wards
+> Code: GM06
+> Coordinates: 13.487, -16.13
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Central Baddibu
+
+Code: GM0601, Coordinates: 13.519, -15.92
+Wards: 2
+
+#### Njaba Kunda
+
+Code: GM060101, Coordinates: 13.556, -15.91
+
+#### Sallikene
+
+Code: GM060102, Coordinates: 13.519, -15.956
+
+### Illiassa
+
+Code: GM0605, Coordinates: 13.524, -15.703
+Wards: 4
+
+#### Farafenni
+
+Code: GM060501, Coordinates: 13.572, -15.6
+
+#### Katchang
+
+Code: GM060502, Coordinates: 13.524, -15.747
+
+#### Kubandarr
+
+Code: GM060503, Coordinates: 13.539, -15.639
+
+#### No Kunda
+
+Code: GM060504, Coordinates: 13.523, -15.815
+
+### Jokadu
+
+Code: GM0602, Coordinates: 13.511, -16.149
+Wards: 3
+
+#### Darsilami
+
+Code: GM060201, Coordinates: 13.516, -16.141
+
+#### Kerewan 2
+
+Code: GM060202, Coordinates: 13.517, -16.081
+
+#### Kerr Jarga
+
+Code: GM060203, Coordinates: 13.505, -16.213
+
+### Lower Baddibu
+
+Code: GM0603, Coordinates: 13.519, -16.034
+Wards: 1
+
+#### Saaba
+
+Code: GM060301, Coordinates: 13.519, -16.034
+
+### Lower Niumi
+
+Code: GM0604, Coordinates: 13.506, -16.427
+Wards: 2
+
+#### Essau
+
+Code: GM060401, Coordinates: 13.523, -16.47
+
+#### Medina Sering Mass
+
+Code: GM060402, Coordinates: 13.509, -16.372
+
+### Sabach - Sanjal
+
+Code: GM0607, Coordinates: 13.545, -15.47
+Wards: 2
+
+#### Sabach
+
+Code: GM060701, Coordinates: 13.536, -15.514
+
+#### Sanjal
+
+Code: GM060702, Coordinates: 13.545, -15.414
+
+### Upper Niumi
+
+Code: GM0606, Coordinates: 13.43, -16.338
+Wards: 2
+
+#### Pakau
+
+Code: GM060601, Coordinates: 13.409, -16.421
+
+#### Prince
+
+Code: GM060602, Coordinates: 13.433, -16.301
+

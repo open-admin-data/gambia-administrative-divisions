@@ -1,0 +1,111 @@
+# Kanifing Municipal Council — Gambia Administrative Divisions
+
+> 6 districts, 18 wards
+> Code: GM05
+> Coordinates: 13.435, -16.655
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Bakau
+
+Code: GM0501, Coordinates: 13.471, -16.666
+Wards: 2
+
+#### Bakau New Town and Fajara
+
+Code: GM050101, Coordinates: 13.47, -16.685
+
+#### Old Bakau and Cape Point
+
+Code: GM050102, Coordinates: 13.471, -16.654
+
+### Jeshwang
+
+Code: GM0502, Coordinates: 13.451, -16.667
+Wards: 3
+
+#### Kanifing
+
+Code: GM050201, Coordinates: 13.456, -16.678
+
+#### New Jeshwang and Ebo Town
+
+Code: GM050202, Coordinates: 13.443, -16.666
+
+#### Old Jeshwang
+
+Code: GM050203, Coordinates: 13.456, -16.659
+
+### Mangrove
+
+Code: GM0503, Coordinates: 13.424, -16.627
+Wards: 1
+
+#### Mangrove
+
+Code: GM050301, Coordinates: 13.424, -16.627
+
+### Sere Kunda Central
+
+Code: GM0504, Coordinates: 13.431, -16.683
+Wards: 3
+
+#### Bundung Borehole and Bantaba
+
+Code: GM050401, Coordinates: 13.423, -16.685
+
+#### Bundung Six Junction Muritani
+
+Code: GM050402, Coordinates: 13.424, -16.677
+
+#### Sere Kunda and London Corner
+
+Code: GM050403, Coordinates: 13.438, -16.68
+
+### Sere Kunda East
+
+Code: GM0505, Coordinates: 13.411, -16.661
+Wards: 4
+
+#### Abuko
+
+Code: GM050501, Coordinates: 13.398, -16.655
+
+#### Faji Kunda
+
+Code: GM050502, Coordinates: 13.415, -16.662
+
+#### Latri Kunda Sabiji
+
+Code: GM050503, Coordinates: 13.411, -16.673
+
+#### Talinding
+
+Code: GM050504, Coordinates: 13.428, -16.664
+
+### Sere Kunda West
+
+Code: GM0506, Coordinates: 13.446, -16.7
+Wards: 5
+
+#### Bakoteh
+
+Code: GM050601, Coordinates: 13.433, -16.698
+
+#### Dippa Kunda
+
+Code: GM050602, Coordinates: 13.443, -16.685
+
+#### Kololi
+
+Code: GM050603, Coordinates: 13.451, -16.713
+
+#### Latri Kunda Yiringanya
+
+Code: GM050604, Coordinates: 13.453, -16.685
+
+#### Manjai Kunda
+
+Code: GM050605, Coordinates: 13.45, -16.696
+

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM070401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Banni",
+      "en": "Banni",
+      "slug": "banni-gm070401"
+    },
+    "code": {
+      "id": "GM070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0704",
+      "level": 2,
+      "name": {
+        "local": "Sami",
+        "en": "Sami",
+        "slug": "sami-gm0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0704",
+        "level": 2,
+        "name": {
+          "local": "Sami",
+          "en": "Sami",
+          "slug": "sami-gm0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.531",
+      "lon": "-14.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM070402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karantaba",
+      "en": "Karantaba",
+      "slug": "karantaba-gm070402"
+    },
+    "code": {
+      "id": "GM070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0704",
+      "level": 2,
+      "name": {
+        "local": "Sami",
+        "en": "Sami",
+        "slug": "sami-gm0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0704",
+        "level": 2,
+        "name": {
+          "local": "Sami",
+          "en": "Sami",
+          "slug": "sami-gm0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.602",
+      "lon": "-14.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM070403",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pachonki",
+      "en": "Pachonki",
+      "slug": "pachonki-gm070403"
+    },
+    "code": {
+      "id": "GM070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0704",
+      "level": 2,
+      "name": {
+        "local": "Sami",
+        "en": "Sami",
+        "slug": "sami-gm0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0704",
+        "level": 2,
+        "name": {
+          "local": "Sami",
+          "en": "Sami",
+          "slug": "sami-gm0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.526",
+      "lon": "-14.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

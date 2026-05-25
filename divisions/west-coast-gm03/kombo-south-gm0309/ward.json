@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM030901",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gunjur",
+      "en": "Gunjur",
+      "slug": "gunjur-gm030901"
+    },
+    "code": {
+      "id": "GM030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0309",
+      "level": 2,
+      "name": {
+        "local": "Kombo South",
+        "en": "Kombo South",
+        "slug": "kombo-south-gm0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0309",
+        "level": 2,
+        "name": {
+          "local": "Kombo South",
+          "en": "Kombo South",
+          "slug": "kombo-south-gm0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.185",
+      "lon": "-16.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030902",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karthong",
+      "en": "Karthong",
+      "slug": "karthong-gm030902"
+    },
+    "code": {
+      "id": "GM030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0309",
+      "level": 2,
+      "name": {
+        "local": "Kombo South",
+        "en": "Kombo South",
+        "slug": "kombo-south-gm0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0309",
+        "level": 2,
+        "name": {
+          "local": "Kombo South",
+          "en": "Kombo South",
+          "slug": "kombo-south-gm0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.134",
+      "lon": "-16.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030903",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sanyang",
+      "en": "Sanyang",
+      "slug": "sanyang-gm030903"
+    },
+    "code": {
+      "id": "GM030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0309",
+      "level": 2,
+      "name": {
+        "local": "Kombo South",
+        "en": "Kombo South",
+        "slug": "kombo-south-gm0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0309",
+        "level": 2,
+        "name": {
+          "local": "Kombo South",
+          "en": "Kombo South",
+          "slug": "kombo-south-gm0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.301",
+      "lon": "-16.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

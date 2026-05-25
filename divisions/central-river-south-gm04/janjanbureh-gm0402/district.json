@@ -1,0 +1,47 @@
+{
+  "id": "GM0402",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Janjanbureh",
+    "en": "Janjanbureh",
+    "slug": "janjanbureh-gm0402"
+  },
+  "code": {
+    "id": "GM0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM04",
+    "level": 1,
+    "name": {
+      "local": "Central River South",
+      "en": "Central River South",
+      "slug": "central-river-south-gm04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.541",
+    "lon": "-14.775"
+  },
+  "metadata": {},
+  "source": {}
+}

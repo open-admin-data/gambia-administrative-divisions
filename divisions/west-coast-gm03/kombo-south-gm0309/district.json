@@ -1,0 +1,47 @@
+{
+  "id": "GM0309",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kombo South",
+    "en": "Kombo South",
+    "slug": "kombo-south-gm0309"
+  },
+  "code": {
+    "id": "GM0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM03",
+    "level": 1,
+    "name": {
+      "local": "West Coast",
+      "en": "West Coast",
+      "slug": "west-coast-gm03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.204",
+    "lon": "-16.731"
+  },
+  "metadata": {},
+  "source": {}
+}

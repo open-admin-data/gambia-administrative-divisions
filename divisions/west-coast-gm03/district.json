@@ -1,0 +1,425 @@
+[
+  {
+    "id": "GM0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Bintang Karenai",
+      "en": "Foni Bintang Karenai",
+      "slug": "foni-bintang-karenai-gm0301"
+    },
+    "code": {
+      "id": "GM0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.246",
+      "lon": "-16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Bondali",
+      "en": "Foni Bondali",
+      "slug": "foni-bondali-gm0302"
+    },
+    "code": {
+      "id": "GM0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.23",
+      "lon": "-15.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Brefet",
+      "en": "Foni Brefet",
+      "slug": "foni-brefet-gm0303"
+    },
+    "code": {
+      "id": "GM0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.217",
+      "lon": "-16.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Jarrol",
+      "en": "Foni Jarrol",
+      "slug": "foni-jarrol-gm0304"
+    },
+    "code": {
+      "id": "GM0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.223",
+      "lon": "-15.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Kansala",
+      "en": "Foni Kansala",
+      "slug": "foni-kansala-gm0305"
+    },
+    "code": {
+      "id": "GM0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.232",
+      "lon": "-16.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo Central",
+      "en": "Kombo Central",
+      "slug": "kombo-central-gm0306"
+    },
+    "code": {
+      "id": "GM0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.251",
+      "lon": "-16.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo East",
+      "en": "Kombo East",
+      "slug": "kombo-east-gm0307"
+    },
+    "code": {
+      "id": "GM0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.25",
+      "lon": "-16.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo North/St Marie",
+      "en": "Kombo North/St Marie",
+      "slug": "kombo-northst-marie-gm0308"
+    },
+    "code": {
+      "id": "GM0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.381",
+      "lon": "-16.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo South",
+      "en": "Kombo South",
+      "slug": "kombo-south-gm0309"
+    },
+    "code": {
+      "id": "GM0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.204",
+      "lon": "-16.731"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

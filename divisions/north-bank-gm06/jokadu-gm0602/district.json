@@ -1,0 +1,47 @@
+{
+  "id": "GM0602",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jokadu",
+    "en": "Jokadu",
+    "slug": "jokadu-gm0602"
+  },
+  "code": {
+    "id": "GM0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM06",
+    "level": 1,
+    "name": {
+      "local": "North Bank",
+      "en": "North Bank",
+      "slug": "north-bank-gm06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.511",
+    "lon": "-16.149"
+  },
+  "metadata": {},
+  "source": {}
+}

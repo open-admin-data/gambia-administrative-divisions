@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM020502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dampha Kunda",
+      "en": "Dampha Kunda",
+      "slug": "dampha-kunda-gm020502"
+    },
+    "code": {
+      "id": "GM020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0205",
+      "level": 2,
+      "name": {
+        "local": "Tumana",
+        "en": "Tumana",
+        "slug": "tumana-gm0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      },
+      {
+        "id": "GM0205",
+        "level": 2,
+        "name": {
+          "local": "Tumana",
+          "en": "Tumana",
+          "slug": "tumana-gm0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.354",
+      "lon": "-14.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM020504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kularr",
+      "en": "Kularr",
+      "slug": "kularr-gm020504"
+    },
+    "code": {
+      "id": "GM020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0205",
+      "level": 2,
+      "name": {
+        "local": "Tumana",
+        "en": "Tumana",
+        "slug": "tumana-gm0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      },
+      {
+        "id": "GM0205",
+        "level": 2,
+        "name": {
+          "local": "Tumana",
+          "en": "Tumana",
+          "slug": "tumana-gm0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.381",
+      "lon": "-14.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

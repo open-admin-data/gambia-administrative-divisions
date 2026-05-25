@@ -1,0 +1,47 @@
+{
+  "id": "GM0506",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sere Kunda West",
+    "en": "Sere Kunda West",
+    "slug": "sere-kunda-west-gm0506"
+  },
+  "code": {
+    "id": "GM0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM05",
+    "level": 1,
+    "name": {
+      "local": "Kanifing Municipal Council",
+      "en": "Kanifing Municipal Council",
+      "slug": "kanifing-municipal-council-gm05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.446",
+    "lon": "-16.7"
+  },
+  "metadata": {},
+  "source": {}
+}

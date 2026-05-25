@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM020301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Diabugu",
+      "en": "Diabugu",
+      "slug": "diabugu-gm020301"
+    },
+    "code": {
+      "id": "GM020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0203",
+      "level": 2,
+      "name": {
+        "local": "Sandu",
+        "en": "Sandu",
+        "slug": "sandu-gm0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      },
+      {
+        "id": "GM0203",
+        "level": 2,
+        "name": {
+          "local": "Sandu",
+          "en": "Sandu",
+          "slug": "sandu-gm0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.45",
+      "lon": "-14.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM020302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Misera",
+      "en": "Misera",
+      "slug": "misera-gm020302"
+    },
+    "code": {
+      "id": "GM020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0203",
+      "level": 2,
+      "name": {
+        "local": "Sandu",
+        "en": "Sandu",
+        "slug": "sandu-gm0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      },
+      {
+        "id": "GM0203",
+        "level": 2,
+        "name": {
+          "local": "Sandu",
+          "en": "Sandu",
+          "slug": "sandu-gm0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.397",
+      "lon": "-14.326"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

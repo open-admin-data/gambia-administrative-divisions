@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GM040601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bansang",
+      "en": "Bansang",
+      "slug": "bansang-gm040601"
+    },
+    "code": {
+      "id": "GM040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0406",
+      "level": 2,
+      "name": {
+        "local": "Upper Fuladu West",
+        "en": "Upper Fuladu West",
+        "slug": "upper-fuladu-west-gm0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0406",
+        "level": 2,
+        "name": {
+          "local": "Upper Fuladu West",
+          "en": "Upper Fuladu West",
+          "slug": "upper-fuladu-west-gm0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.48",
+      "lon": "-14.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM040602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daru",
+      "en": "Daru",
+      "slug": "daru-gm040602"
+    },
+    "code": {
+      "id": "GM040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0406",
+      "level": 2,
+      "name": {
+        "local": "Upper Fuladu West",
+        "en": "Upper Fuladu West",
+        "slug": "upper-fuladu-west-gm0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0406",
+        "level": 2,
+        "name": {
+          "local": "Upper Fuladu West",
+          "en": "Upper Fuladu West",
+          "slug": "upper-fuladu-west-gm0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.36",
+      "lon": "-14.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM040603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galleh",
+      "en": "Galleh",
+      "slug": "galleh-gm040603"
+    },
+    "code": {
+      "id": "GM040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0406",
+      "level": 2,
+      "name": {
+        "local": "Upper Fuladu West",
+        "en": "Upper Fuladu West",
+        "slug": "upper-fuladu-west-gm0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0406",
+        "level": 2,
+        "name": {
+          "local": "Upper Fuladu West",
+          "en": "Upper Fuladu West",
+          "slug": "upper-fuladu-west-gm0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.43",
+      "lon": "-14.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM040604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sare Soffie",
+      "en": "Sare Soffie",
+      "slug": "sare-soffie-gm040604"
+    },
+    "code": {
+      "id": "GM040604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0406",
+      "level": 2,
+      "name": {
+        "local": "Upper Fuladu West",
+        "en": "Upper Fuladu West",
+        "slug": "upper-fuladu-west-gm0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0406",
+        "level": 2,
+        "name": {
+          "local": "Upper Fuladu West",
+          "en": "Upper Fuladu West",
+          "slug": "upper-fuladu-west-gm0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.47",
+      "lon": "-14.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

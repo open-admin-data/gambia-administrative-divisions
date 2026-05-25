@@ -1,0 +1,47 @@
+{
+  "id": "GM0103",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banjul South",
+    "en": "Banjul South",
+    "slug": "banjul-south-gm0103"
+  },
+  "code": {
+    "id": "GM0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM01",
+    "level": 1,
+    "name": {
+      "local": "Banjul City Council",
+      "en": "Banjul City Council",
+      "slug": "banjul-city-council-gm01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM01",
+      "level": 1,
+      "name": {
+        "local": "Banjul City Council",
+        "en": "Banjul City Council",
+        "slug": "banjul-city-council-gm01"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.449",
+    "lon": "-16.576"
+  },
+  "metadata": {},
+  "source": {}
+}

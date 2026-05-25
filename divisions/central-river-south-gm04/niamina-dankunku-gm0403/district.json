@@ -1,0 +1,47 @@
+{
+  "id": "GM0403",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Niamina Dankunku",
+    "en": "Niamina Dankunku",
+    "slug": "niamina-dankunku-gm0403"
+  },
+  "code": {
+    "id": "GM0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM04",
+    "level": 1,
+    "name": {
+      "local": "Central River South",
+      "en": "Central River South",
+      "slug": "central-river-south-gm04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.604",
+    "lon": "-15.326"
+  },
+  "metadata": {},
+  "source": {}
+}

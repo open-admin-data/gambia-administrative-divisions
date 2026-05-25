@@ -1,0 +1,60 @@
+# Banjul City Council — Gambia Administrative Divisions
+
+> 3 districts, 9 wards
+> Code: GM01
+> Coordinates: 13.458, -16.591
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Banjul Central
+
+Code: GM0101, Coordinates: 13.454, -16.58
+Wards: 3
+
+#### New Town East
+
+Code: GM010101, Coordinates: 13.457, -16.579
+
+#### New Town West
+
+Code: GM010102, Coordinates: 13.454, -16.581
+
+#### Soldier Town
+
+Code: GM010103, Coordinates: 13.456, -16.575
+
+### Banjul North
+
+Code: GM0102, Coordinates: 13.458, -16.594
+Wards: 3
+
+#### Box Bar
+
+Code: GM010201, Coordinates: 13.459, -16.58
+
+#### Campama
+
+Code: GM010202, Coordinates: 13.458, -16.595
+
+#### Crab Island
+
+Code: GM010203, Coordinates: 13.453, -16.584
+
+### Banjul South
+
+Code: GM0103, Coordinates: 13.449, -16.576
+Wards: 3
+
+#### Half Die
+
+Code: GM010301, Coordinates: 13.447, -16.577
+
+#### Jollof Town
+
+Code: GM010302, Coordinates: 13.452, -16.578
+
+#### Portugiese Town
+
+Code: GM010303, Coordinates: 13.453, -16.572
+

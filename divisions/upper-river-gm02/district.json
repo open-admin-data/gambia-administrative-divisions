@@ -1,0 +1,331 @@
+[
+  {
+    "id": "GM0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Basse",
+      "en": "Basse",
+      "slug": "basse-gm0201"
+    },
+    "code": {
+      "id": "GM0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.292",
+      "lon": "-14.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jimara",
+      "en": "Jimara",
+      "slug": "jimara-gm0204"
+    },
+    "code": {
+      "id": "GM0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.327",
+      "lon": "-14.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kantora",
+      "en": "Kantora",
+      "slug": "kantora-gm0202"
+    },
+    "code": {
+      "id": "GM0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.414",
+      "lon": "-13.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandu",
+      "en": "Sandu",
+      "slug": "sandu-gm0203"
+    },
+    "code": {
+      "id": "GM0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.426",
+      "lon": "-14.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tumana",
+      "en": "Tumana",
+      "slug": "tumana-gm0205"
+    },
+    "code": {
+      "id": "GM0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.369",
+      "lon": "-14.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0207",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wuli East",
+      "en": "Wuli East",
+      "slug": "wuli-east-gm0207"
+    },
+    "code": {
+      "id": "GM0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.484",
+      "lon": "-14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wuli West",
+      "en": "Wuli West",
+      "slug": "wuli-west-gm0206"
+    },
+    "code": {
+      "id": "GM0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.431",
+      "lon": "-14.171"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

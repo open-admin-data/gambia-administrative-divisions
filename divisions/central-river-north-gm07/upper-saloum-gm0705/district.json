@@ -1,0 +1,47 @@
+{
+  "id": "GM0705",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Upper Saloum",
+    "en": "Upper Saloum",
+    "slug": "upper-saloum-gm0705"
+  },
+  "code": {
+    "id": "GM0705",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM07",
+    "level": 1,
+    "name": {
+      "local": "Central River North",
+      "en": "Central River North",
+      "slug": "central-river-north-gm07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.733",
+    "lon": "-15.247"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GM0207",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wuli East",
+    "en": "Wuli East",
+    "slug": "wuli-east-gm0207"
+  },
+  "code": {
+    "id": "GM0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM02",
+    "level": 1,
+    "name": {
+      "local": "Upper River",
+      "en": "Upper River",
+      "slug": "upper-river-gm02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.484",
+    "lon": "-14"
+  },
+  "metadata": {},
+  "source": {}
+}

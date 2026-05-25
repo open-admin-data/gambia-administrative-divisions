@@ -1,0 +1,47 @@
+{
+  "id": "GM0805",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kiang East",
+    "en": "Kiang East",
+    "slug": "kiang-east-gm0805"
+  },
+  "code": {
+    "id": "GM0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM08",
+    "level": 1,
+    "name": {
+      "local": "Lower River",
+      "en": "Lower River",
+      "slug": "lower-river-gm08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.418",
+    "lon": "-15.644"
+  },
+  "metadata": {},
+  "source": {}
+}

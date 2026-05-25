@@ -1,0 +1,47 @@
+{
+  "id": "GM0607",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sabach - Sanjal",
+    "en": "Sabach - Sanjal",
+    "slug": "sabach-sanjal-gm0607"
+  },
+  "code": {
+    "id": "GM0607",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM06",
+    "level": 1,
+    "name": {
+      "local": "North Bank",
+      "en": "North Bank",
+      "slug": "north-bank-gm06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.545",
+    "lon": "-15.47"
+  },
+  "metadata": {},
+  "source": {}
+}

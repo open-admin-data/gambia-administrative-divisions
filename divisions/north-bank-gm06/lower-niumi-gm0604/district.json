@@ -1,0 +1,47 @@
+{
+  "id": "GM0604",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lower Niumi",
+    "en": "Lower Niumi",
+    "slug": "lower-niumi-gm0604"
+  },
+  "code": {
+    "id": "GM0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM06",
+    "level": 1,
+    "name": {
+      "local": "North Bank",
+      "en": "North Bank",
+      "slug": "north-bank-gm06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.506",
+    "lon": "-16.427"
+  },
+  "metadata": {},
+  "source": {}
+}

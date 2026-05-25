@@ -1,0 +1,47 @@
+{
+  "id": "GM0501",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bakau",
+    "en": "Bakau",
+    "slug": "bakau-gm0501"
+  },
+  "code": {
+    "id": "GM0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM05",
+    "level": 1,
+    "name": {
+      "local": "Kanifing Municipal Council",
+      "en": "Kanifing Municipal Council",
+      "slug": "kanifing-municipal-council-gm05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.471",
+    "lon": "-16.666"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Gambia Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-25"
+url: "https://github.com/open-admin-data/gambia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/gambia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - gambia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Gambia's administrative hierarchy:
+  8 local government areas, 49 districts, 115 wards.
+  Bilingual with coordinates and postal codes where available.

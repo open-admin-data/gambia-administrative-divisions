@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM080601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiang Banta",
+      "en": "Kiang Banta",
+      "slug": "kiang-banta-gm080601"
+    },
+    "code": {
+      "id": "GM080601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0806",
+      "level": 2,
+      "name": {
+        "local": "Kiang West",
+        "en": "Kiang West",
+        "slug": "kiang-west-gm0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      },
+      {
+        "id": "GM0806",
+        "level": 2,
+        "name": {
+          "local": "Kiang West",
+          "en": "Kiang West",
+          "slug": "kiang-west-gm0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.345",
+      "lon": "-15.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM080602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiang Julafarr",
+      "en": "Kiang Julafarr",
+      "slug": "kiang-julafarr-gm080602"
+    },
+    "code": {
+      "id": "GM080602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0806",
+      "level": 2,
+      "name": {
+        "local": "Kiang West",
+        "en": "Kiang West",
+        "slug": "kiang-west-gm0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      },
+      {
+        "id": "GM0806",
+        "level": 2,
+        "name": {
+          "local": "Kiang West",
+          "en": "Kiang West",
+          "slug": "kiang-west-gm0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.341",
+      "lon": "-16.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

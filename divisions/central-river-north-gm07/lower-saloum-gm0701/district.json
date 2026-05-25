@@ -1,0 +1,47 @@
+{
+  "id": "GM0701",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lower Saloum",
+    "en": "Lower Saloum",
+    "slug": "lower-saloum-gm0701"
+  },
+  "code": {
+    "id": "GM0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM07",
+    "level": 1,
+    "name": {
+      "local": "Central River North",
+      "en": "Central River North",
+      "slug": "central-river-north-gm07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.704",
+    "lon": "-15.364"
+  },
+  "metadata": {},
+  "source": {}
+}

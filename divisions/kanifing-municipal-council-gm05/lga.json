@@ -1,0 +1,30 @@
+{
+  "id": "GM05",
+  "level": 1,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kanifing Municipal Council",
+    "en": "Kanifing Municipal Council",
+    "slug": "kanifing-municipal-council-gm05"
+  },
+  "code": {
+    "id": "GM05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.435",
+    "lon": "-16.655"
+  },
+  "metadata": {},
+  "source": {}
+}

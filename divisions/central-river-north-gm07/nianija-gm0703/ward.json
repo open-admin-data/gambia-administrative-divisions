@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GM070301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chamen",
+      "en": "Chamen",
+      "slug": "chamen-gm070301"
+    },
+    "code": {
+      "id": "GM070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0703",
+      "level": 2,
+      "name": {
+        "local": "Nianija",
+        "en": "Nianija",
+        "slug": "nianija-gm0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0703",
+        "level": 2,
+        "name": {
+          "local": "Nianija",
+          "en": "Nianija",
+          "slug": "nianija-gm0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.717",
+      "lon": "-15.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

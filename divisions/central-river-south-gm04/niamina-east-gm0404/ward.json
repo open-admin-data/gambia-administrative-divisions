@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM040401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jarreng",
+      "en": "Jarreng",
+      "slug": "jarreng-gm040401"
+    },
+    "code": {
+      "id": "GM040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0404",
+      "level": 2,
+      "name": {
+        "local": "Niamina East",
+        "en": "Niamina East",
+        "slug": "niamina-east-gm0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0404",
+        "level": 2,
+        "name": {
+          "local": "Niamina East",
+          "en": "Niamina East",
+          "slug": "niamina-east-gm0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.613",
+      "lon": "-15.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM040402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudang",
+      "en": "Kudang",
+      "slug": "kudang-gm040402"
+    },
+    "code": {
+      "id": "GM040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0404",
+      "level": 2,
+      "name": {
+        "local": "Niamina East",
+        "en": "Niamina East",
+        "slug": "niamina-east-gm0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0404",
+        "level": 2,
+        "name": {
+          "local": "Niamina East",
+          "en": "Niamina East",
+          "slug": "niamina-east-gm0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.634",
+      "lon": "-15.047"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

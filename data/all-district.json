@@ -1,0 +1,2305 @@
+[
+  {
+    "id": "GM0101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjul Central",
+      "en": "Banjul Central",
+      "slug": "banjul-central-gm0101"
+    },
+    "code": {
+      "id": "GM0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM01",
+      "level": 1,
+      "name": {
+        "local": "Banjul City Council",
+        "en": "Banjul City Council",
+        "slug": "banjul-city-council-gm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "-16.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjul North",
+      "en": "Banjul North",
+      "slug": "banjul-north-gm0102"
+    },
+    "code": {
+      "id": "GM0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM01",
+      "level": 1,
+      "name": {
+        "local": "Banjul City Council",
+        "en": "Banjul City Council",
+        "slug": "banjul-city-council-gm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.458",
+      "lon": "-16.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjul South",
+      "en": "Banjul South",
+      "slug": "banjul-south-gm0103"
+    },
+    "code": {
+      "id": "GM0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM01",
+      "level": 1,
+      "name": {
+        "local": "Banjul City Council",
+        "en": "Banjul City Council",
+        "slug": "banjul-city-council-gm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.449",
+      "lon": "-16.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Basse",
+      "en": "Basse",
+      "slug": "basse-gm0201"
+    },
+    "code": {
+      "id": "GM0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.292",
+      "lon": "-14.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kantora",
+      "en": "Kantora",
+      "slug": "kantora-gm0202"
+    },
+    "code": {
+      "id": "GM0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.414",
+      "lon": "-13.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandu",
+      "en": "Sandu",
+      "slug": "sandu-gm0203"
+    },
+    "code": {
+      "id": "GM0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.426",
+      "lon": "-14.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jimara",
+      "en": "Jimara",
+      "slug": "jimara-gm0204"
+    },
+    "code": {
+      "id": "GM0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.327",
+      "lon": "-14.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tumana",
+      "en": "Tumana",
+      "slug": "tumana-gm0205"
+    },
+    "code": {
+      "id": "GM0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.369",
+      "lon": "-14.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wuli West",
+      "en": "Wuli West",
+      "slug": "wuli-west-gm0206"
+    },
+    "code": {
+      "id": "GM0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.431",
+      "lon": "-14.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0207",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wuli East",
+      "en": "Wuli East",
+      "slug": "wuli-east-gm0207"
+    },
+    "code": {
+      "id": "GM0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.484",
+      "lon": "-14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Bintang Karenai",
+      "en": "Foni Bintang Karenai",
+      "slug": "foni-bintang-karenai-gm0301"
+    },
+    "code": {
+      "id": "GM0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.246",
+      "lon": "-16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Bondali",
+      "en": "Foni Bondali",
+      "slug": "foni-bondali-gm0302"
+    },
+    "code": {
+      "id": "GM0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.23",
+      "lon": "-15.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Brefet",
+      "en": "Foni Brefet",
+      "slug": "foni-brefet-gm0303"
+    },
+    "code": {
+      "id": "GM0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.217",
+      "lon": "-16.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Jarrol",
+      "en": "Foni Jarrol",
+      "slug": "foni-jarrol-gm0304"
+    },
+    "code": {
+      "id": "GM0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.223",
+      "lon": "-15.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Foni Kansala",
+      "en": "Foni Kansala",
+      "slug": "foni-kansala-gm0305"
+    },
+    "code": {
+      "id": "GM0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.232",
+      "lon": "-16.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo Central",
+      "en": "Kombo Central",
+      "slug": "kombo-central-gm0306"
+    },
+    "code": {
+      "id": "GM0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.251",
+      "lon": "-16.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo East",
+      "en": "Kombo East",
+      "slug": "kombo-east-gm0307"
+    },
+    "code": {
+      "id": "GM0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.25",
+      "lon": "-16.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo North/St Marie",
+      "en": "Kombo North/St Marie",
+      "slug": "kombo-northst-marie-gm0308"
+    },
+    "code": {
+      "id": "GM0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.381",
+      "lon": "-16.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombo South",
+      "en": "Kombo South",
+      "slug": "kombo-south-gm0309"
+    },
+    "code": {
+      "id": "GM0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM03",
+      "level": 1,
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.204",
+      "lon": "-16.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Fuladu West",
+      "en": "Lower Fuladu West",
+      "slug": "lower-fuladu-west-gm0401"
+    },
+    "code": {
+      "id": "GM0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.525",
+      "lon": "-14.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Janjanbureh",
+      "en": "Janjanbureh",
+      "slug": "janjanbureh-gm0402"
+    },
+    "code": {
+      "id": "GM0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.541",
+      "lon": "-14.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niamina Dankunku",
+      "en": "Niamina Dankunku",
+      "slug": "niamina-dankunku-gm0403"
+    },
+    "code": {
+      "id": "GM0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.604",
+      "lon": "-15.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niamina East",
+      "en": "Niamina East",
+      "slug": "niamina-east-gm0404"
+    },
+    "code": {
+      "id": "GM0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.634",
+      "lon": "-15.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niamina West",
+      "en": "Niamina West",
+      "slug": "niamina-west-gm0405"
+    },
+    "code": {
+      "id": "GM0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.575",
+      "lon": "-15.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Fuladu West",
+      "en": "Upper Fuladu West",
+      "slug": "upper-fuladu-west-gm0406"
+    },
+    "code": {
+      "id": "GM0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.444",
+      "lon": "-14.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bakau",
+      "en": "Bakau",
+      "slug": "bakau-gm0501"
+    },
+    "code": {
+      "id": "GM0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.471",
+      "lon": "-16.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeshwang",
+      "en": "Jeshwang",
+      "slug": "jeshwang-gm0502"
+    },
+    "code": {
+      "id": "GM0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.451",
+      "lon": "-16.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangrove",
+      "en": "Mangrove",
+      "slug": "mangrove-gm0503"
+    },
+    "code": {
+      "id": "GM0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.424",
+      "lon": "-16.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sere Kunda Central",
+      "en": "Sere Kunda Central",
+      "slug": "sere-kunda-central-gm0504"
+    },
+    "code": {
+      "id": "GM0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.431",
+      "lon": "-16.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sere Kunda East",
+      "en": "Sere Kunda East",
+      "slug": "sere-kunda-east-gm0505"
+    },
+    "code": {
+      "id": "GM0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.411",
+      "lon": "-16.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sere Kunda West",
+      "en": "Sere Kunda West",
+      "slug": "sere-kunda-west-gm0506"
+    },
+    "code": {
+      "id": "GM0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.446",
+      "lon": "-16.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Baddibu",
+      "en": "Central Baddibu",
+      "slug": "central-baddibu-gm0601"
+    },
+    "code": {
+      "id": "GM0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.519",
+      "lon": "-15.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jokadu",
+      "en": "Jokadu",
+      "slug": "jokadu-gm0602"
+    },
+    "code": {
+      "id": "GM0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.511",
+      "lon": "-16.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Baddibu",
+      "en": "Lower Baddibu",
+      "slug": "lower-baddibu-gm0603"
+    },
+    "code": {
+      "id": "GM0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.519",
+      "lon": "-16.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Niumi",
+      "en": "Lower Niumi",
+      "slug": "lower-niumi-gm0604"
+    },
+    "code": {
+      "id": "GM0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.506",
+      "lon": "-16.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Illiassa",
+      "en": "Illiassa",
+      "slug": "illiassa-gm0605"
+    },
+    "code": {
+      "id": "GM0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.524",
+      "lon": "-15.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0606",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Niumi",
+      "en": "Upper Niumi",
+      "slug": "upper-niumi-gm0606"
+    },
+    "code": {
+      "id": "GM0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.43",
+      "lon": "-16.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0607",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabach - Sanjal",
+      "en": "Sabach - Sanjal",
+      "slug": "sabach-sanjal-gm0607"
+    },
+    "code": {
+      "id": "GM0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.545",
+      "lon": "-15.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0701",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Saloum",
+      "en": "Lower Saloum",
+      "slug": "lower-saloum-gm0701"
+    },
+    "code": {
+      "id": "GM0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.704",
+      "lon": "-15.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0702",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niani",
+      "en": "Niani",
+      "slug": "niani-gm0702"
+    },
+    "code": {
+      "id": "GM0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.675",
+      "lon": "-14.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0703",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nianija",
+      "en": "Nianija",
+      "slug": "nianija-gm0703"
+    },
+    "code": {
+      "id": "GM0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.717",
+      "lon": "-15.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0704",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sami",
+      "en": "Sami",
+      "slug": "sami-gm0704"
+    },
+    "code": {
+      "id": "GM0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.545",
+      "lon": "-14.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0705",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Saloum",
+      "en": "Upper Saloum",
+      "slug": "upper-saloum-gm0705"
+    },
+    "code": {
+      "id": "GM0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.733",
+      "lon": "-15.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0801",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jarra Central",
+      "en": "Jarra Central",
+      "slug": "jarra-central-gm0801"
+    },
+    "code": {
+      "id": "GM0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.413",
+      "lon": "-15.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0802",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jarra East",
+      "en": "Jarra East",
+      "slug": "jarra-east-gm0802"
+    },
+    "code": {
+      "id": "GM0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.452",
+      "lon": "-15.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0803",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jarra West",
+      "en": "Jarra West",
+      "slug": "jarra-west-gm0803"
+    },
+    "code": {
+      "id": "GM0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.444",
+      "lon": "-15.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0804",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiang Central",
+      "en": "Kiang Central",
+      "slug": "kiang-central-gm0804"
+    },
+    "code": {
+      "id": "GM0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.409",
+      "lon": "-15.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0805",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiang East",
+      "en": "Kiang East",
+      "slug": "kiang-east-gm0805"
+    },
+    "code": {
+      "id": "GM0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.418",
+      "lon": "-15.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0806",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiang West",
+      "en": "Kiang West",
+      "slug": "kiang-west-gm0806"
+    },
+    "code": {
+      "id": "GM0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.345",
+      "lon": "-16.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

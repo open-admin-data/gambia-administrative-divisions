@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM010101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "New Town East",
+      "en": "New Town East",
+      "slug": "new-town-east-gm010101"
+    },
+    "code": {
+      "id": "GM010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0101",
+      "level": 2,
+      "name": {
+        "local": "Banjul Central",
+        "en": "Banjul Central",
+        "slug": "banjul-central-gm0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      },
+      {
+        "id": "GM0101",
+        "level": 2,
+        "name": {
+          "local": "Banjul Central",
+          "en": "Banjul Central",
+          "slug": "banjul-central-gm0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.457",
+      "lon": "-16.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM010102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "New Town West",
+      "en": "New Town West",
+      "slug": "new-town-west-gm010102"
+    },
+    "code": {
+      "id": "GM010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0101",
+      "level": 2,
+      "name": {
+        "local": "Banjul Central",
+        "en": "Banjul Central",
+        "slug": "banjul-central-gm0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      },
+      {
+        "id": "GM0101",
+        "level": 2,
+        "name": {
+          "local": "Banjul Central",
+          "en": "Banjul Central",
+          "slug": "banjul-central-gm0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "-16.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM010103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Soldier Town",
+      "en": "Soldier Town",
+      "slug": "soldier-town-gm010103"
+    },
+    "code": {
+      "id": "GM010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0101",
+      "level": 2,
+      "name": {
+        "local": "Banjul Central",
+        "en": "Banjul Central",
+        "slug": "banjul-central-gm0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      },
+      {
+        "id": "GM0101",
+        "level": 2,
+        "name": {
+          "local": "Banjul Central",
+          "en": "Banjul Central",
+          "slug": "banjul-central-gm0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.456",
+      "lon": "-16.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

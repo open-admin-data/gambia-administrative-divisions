@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0701,Lower Saloum,Lower Saloum,lower-saloum-gm0701,GM0701,2,13.704,-15.364
+GM0702,Niani,Niani,niani-gm0702,GM0702,2,13.675,-14.845
+GM0703,Nianija,Nianija,nianija-gm0703,GM0703,1,13.717,-15.129
+GM0704,Sami,Sami,sami-gm0704,GM0704,3,13.545,-14.694
+GM0705,Upper Saloum,Upper Saloum,upper-saloum-gm0705,GM0705,2,13.733,-15.247

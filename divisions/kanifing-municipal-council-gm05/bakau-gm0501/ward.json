@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM050101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakau New Town and Fajara",
+      "en": "Bakau New Town and Fajara",
+      "slug": "bakau-new-town-and-fajara-gm050101"
+    },
+    "code": {
+      "id": "GM050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0501",
+      "level": 2,
+      "name": {
+        "local": "Bakau",
+        "en": "Bakau",
+        "slug": "bakau-gm0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0501",
+        "level": 2,
+        "name": {
+          "local": "Bakau",
+          "en": "Bakau",
+          "slug": "bakau-gm0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.47",
+      "lon": "-16.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Old Bakau and Cape Point",
+      "en": "Old Bakau and Cape Point",
+      "slug": "old-bakau-and-cape-point-gm050102"
+    },
+    "code": {
+      "id": "GM050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0501",
+      "level": 2,
+      "name": {
+        "local": "Bakau",
+        "en": "Bakau",
+        "slug": "bakau-gm0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0501",
+        "level": 2,
+        "name": {
+          "local": "Bakau",
+          "en": "Bakau",
+          "slug": "bakau-gm0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.471",
+      "lon": "-16.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

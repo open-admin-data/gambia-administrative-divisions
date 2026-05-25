@@ -1,0 +1,30 @@
+{
+  "id": "GM02",
+  "level": 1,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Upper River",
+    "en": "Upper River",
+    "slug": "upper-river-gm02"
+  },
+  "code": {
+    "id": "GM02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.398",
+    "lon": "-14.148"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM020701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baja Kunda",
+      "en": "Baja Kunda",
+      "slug": "baja-kunda-gm020701"
+    },
+    "code": {
+      "id": "GM020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0207",
+      "level": 2,
+      "name": {
+        "local": "Wuli East",
+        "en": "Wuli East",
+        "slug": "wuli-east-gm0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      },
+      {
+        "id": "GM0207",
+        "level": 2,
+        "name": {
+          "local": "Wuli East",
+          "en": "Wuli East",
+          "slug": "wuli-east-gm0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.474",
+      "lon": "-14.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM020703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Foday Kunda",
+      "en": "Foday Kunda",
+      "slug": "foday-kunda-gm020703"
+    },
+    "code": {
+      "id": "GM020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0207",
+      "level": 2,
+      "name": {
+        "local": "Wuli East",
+        "en": "Wuli East",
+        "slug": "wuli-east-gm0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM02",
+        "level": 1,
+        "name": {
+          "local": "Upper River",
+          "en": "Upper River",
+          "slug": "upper-river-gm02"
+        }
+      },
+      {
+        "id": "GM0207",
+        "level": 2,
+        "name": {
+          "local": "Wuli East",
+          "en": "Wuli East",
+          "slug": "wuli-east-gm0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "-13.946"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

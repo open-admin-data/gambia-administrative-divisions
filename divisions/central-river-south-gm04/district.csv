@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0402,Janjanbureh,Janjanbureh,janjanbureh-gm0402,GM0402,1,13.541,-14.775
+GM0401,Lower Fuladu West,Lower Fuladu West,lower-fuladu-west-gm0401,GM0401,3,13.525,-14.911
+GM0403,Niamina Dankunku,Niamina Dankunku,niamina-dankunku-gm0403,GM0403,1,13.604,-15.326
+GM0404,Niamina East,Niamina East,niamina-east-gm0404,GM0404,2,13.634,-15.085
+GM0405,Niamina West,Niamina West,niamina-west-gm0405,GM0405,1,13.575,-15.245
+GM0406,Upper Fuladu West,Upper Fuladu West,upper-fuladu-west-gm0406,GM0406,4,13.444,-14.736

@@ -1,0 +1,47 @@
+{
+  "id": "GM0802",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jarra East",
+    "en": "Jarra East",
+    "slug": "jarra-east-gm0802"
+  },
+  "code": {
+    "id": "GM0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM08",
+    "level": 1,
+    "name": {
+      "local": "Lower River",
+      "en": "Lower River",
+      "slug": "lower-river-gm08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.452",
+    "lon": "-15.261"
+  },
+  "metadata": {},
+  "source": {}
+}

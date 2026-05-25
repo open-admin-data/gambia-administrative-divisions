@@ -1,0 +1,47 @@
+{
+  "id": "GM0704",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sami",
+    "en": "Sami",
+    "slug": "sami-gm0704"
+  },
+  "code": {
+    "id": "GM0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM07",
+    "level": 1,
+    "name": {
+      "local": "Central River North",
+      "en": "Central River North",
+      "slug": "central-river-north-gm07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM07",
+      "level": 1,
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.545",
+    "lon": "-14.694"
+  },
+  "metadata": {},
+  "source": {}
+}

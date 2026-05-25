@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0201,Basse,Basse,basse-gm0201,GM0201,2,13.292,-14.201
+GM0204,Jimara,Jimara,jimara-gm0204,GM0204,2,13.327,-14.45
+GM0202,Kantora,Kantora,kantora-gm0202,GM0202,2,13.414,-13.839
+GM0203,Sandu,Sandu,sandu-gm0203,GM0203,2,13.426,-14.375
+GM0205,Tumana,Tumana,tumana-gm0205,GM0205,2,13.369,-14.085
+GM0207,Wuli East,Wuli East,wuli-east-gm0207,GM0207,2,13.484,-14
+GM0206,Wuli West,Wuli West,wuli-west-gm0206,GM0206,2,13.431,-14.171

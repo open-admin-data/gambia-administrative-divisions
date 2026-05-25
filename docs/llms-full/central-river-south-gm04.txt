@@ -1,0 +1,87 @@
+# Central River South — Gambia Administrative Divisions
+
+> 6 districts, 12 wards
+> Code: GM04
+> Coordinates: 13.523, -14.878
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Janjanbureh
+
+Code: GM0402, Coordinates: 13.541, -14.775
+Wards: 1
+
+#### MacCarthy
+
+Code: GM040201, Coordinates: 13.541, -14.775
+
+### Lower Fuladu West
+
+Code: GM0401, Coordinates: 13.525, -14.911
+Wards: 3
+
+#### Brikamaba
+
+Code: GM040101, Coordinates: 13.548, -14.992
+
+#### Fulabantang
+
+Code: GM040102, Coordinates: 13.495, -14.834
+
+#### Kerewan
+
+Code: GM040103, Coordinates: 13.522, -14.892
+
+### Niamina Dankunku
+
+Code: GM0403, Coordinates: 13.604, -15.326
+Wards: 1
+
+#### Dankunku
+
+Code: GM040301, Coordinates: 13.604, -15.326
+
+### Niamina East
+
+Code: GM0404, Coordinates: 13.634, -15.085
+Wards: 2
+
+#### Jarreng
+
+Code: GM040401, Coordinates: 13.613, -15.169
+
+#### Kudang
+
+Code: GM040402, Coordinates: 13.634, -15.047
+
+### Niamina West
+
+Code: GM0405, Coordinates: 13.575, -15.245
+Wards: 1
+
+#### Katamina
+
+Code: GM040501, Coordinates: 13.572, -15.246
+
+### Upper Fuladu West
+
+Code: GM0406, Coordinates: 13.444, -14.736
+Wards: 4
+
+#### Bansang
+
+Code: GM040601, Coordinates: 13.48, -14.715
+
+#### Daru
+
+Code: GM040602, Coordinates: 13.36, -14.639
+
+#### Galleh
+
+Code: GM040603, Coordinates: 13.43, -14.749
+
+#### Sare Soffie
+
+Code: GM040604, Coordinates: 13.47, -14.567
+

@@ -1,0 +1,47 @@
+{
+  "id": "GM0801",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jarra Central",
+    "en": "Jarra Central",
+    "slug": "jarra-central-gm0801"
+  },
+  "code": {
+    "id": "GM0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM08",
+    "level": 1,
+    "name": {
+      "local": "Lower River",
+      "en": "Lower River",
+      "slug": "lower-river-gm08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM08",
+      "level": 1,
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.413",
+    "lon": "-15.415"
+  },
+  "metadata": {},
+  "source": {}
+}

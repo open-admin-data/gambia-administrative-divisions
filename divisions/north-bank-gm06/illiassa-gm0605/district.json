@@ -1,0 +1,47 @@
+{
+  "id": "GM0605",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Illiassa",
+    "en": "Illiassa",
+    "slug": "illiassa-gm0605"
+  },
+  "code": {
+    "id": "GM0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM06",
+    "level": 1,
+    "name": {
+      "local": "North Bank",
+      "en": "North Bank",
+      "slug": "north-bank-gm06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.524",
+    "lon": "-15.703"
+  },
+  "metadata": {},
+  "source": {}
+}

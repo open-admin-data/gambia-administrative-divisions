@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GM0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bakau",
+      "en": "Bakau",
+      "slug": "bakau-gm0501"
+    },
+    "code": {
+      "id": "GM0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.471",
+      "lon": "-16.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeshwang",
+      "en": "Jeshwang",
+      "slug": "jeshwang-gm0502"
+    },
+    "code": {
+      "id": "GM0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.451",
+      "lon": "-16.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangrove",
+      "en": "Mangrove",
+      "slug": "mangrove-gm0503"
+    },
+    "code": {
+      "id": "GM0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.424",
+      "lon": "-16.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sere Kunda Central",
+      "en": "Sere Kunda Central",
+      "slug": "sere-kunda-central-gm0504"
+    },
+    "code": {
+      "id": "GM0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.431",
+      "lon": "-16.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sere Kunda East",
+      "en": "Sere Kunda East",
+      "slug": "sere-kunda-east-gm0505"
+    },
+    "code": {
+      "id": "GM0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.411",
+      "lon": "-16.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sere Kunda West",
+      "en": "Sere Kunda West",
+      "slug": "sere-kunda-west-gm0506"
+    },
+    "code": {
+      "id": "GM0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM05",
+      "level": 1,
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.446",
+      "lon": "-16.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

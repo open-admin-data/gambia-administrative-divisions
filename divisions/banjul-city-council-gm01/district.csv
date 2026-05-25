@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0101,Banjul Central,Banjul Central,banjul-central-gm0101,GM0101,3,13.454,-16.58
+GM0102,Banjul North,Banjul North,banjul-north-gm0102,GM0102,3,13.458,-16.594
+GM0103,Banjul South,Banjul South,banjul-south-gm0103,GM0103,3,13.449,-16.576

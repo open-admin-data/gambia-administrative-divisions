@@ -1,0 +1,150 @@
+# West Coast — Gambia Administrative Divisions
+
+> 9 districts, 24 wards
+> Code: GM03
+> Coordinates: 13.244, -16.298
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Foni Bintang Karenai
+
+Code: GM0301, Coordinates: 13.246, -16.233
+Wards: 2
+
+#### Kusami
+
+Code: GM030101, Coordinates: 13.215, -16.142
+
+#### Sibanor
+
+Code: GM030102, Coordinates: 13.256, -16.288
+
+### Foni Bondali
+
+Code: GM0302, Coordinates: 13.23, -15.943
+Wards: 2
+
+#### Bantanjang
+
+Code: GM030201, Coordinates: 13.253, -15.942
+
+#### Mayork
+
+Code: GM030202, Coordinates: 13.209, -15.969
+
+### Foni Brefet
+
+Code: GM0303, Coordinates: 13.217, -16.345
+Wards: 2
+
+#### Bulock
+
+Code: GM030302, Coordinates: 13.208, -16.384
+
+#### Somita
+
+Code: GM030301, Coordinates: 13.217, -16.326
+
+### Foni Jarrol
+
+Code: GM0304, Coordinates: 13.223, -15.841
+Wards: 2
+
+#### Sintet
+
+Code: GM030401, Coordinates: 13.222, -15.821
+
+#### Wassadou
+
+Code: GM030402, Coordinates: 13.223, -15.86
+
+### Foni Kansala
+
+Code: GM0305, Coordinates: 13.232, -16.069
+Wards: 2
+
+#### Bwiam
+
+Code: GM030501, Coordinates: 13.233, -16.105
+
+#### Kanilai
+
+Code: GM030502, Coordinates: 13.238, -16.033
+
+### Kombo Central
+
+Code: GM0306, Coordinates: 13.251, -16.668
+Wards: 4
+
+#### Kembujeh
+
+Code: GM030601, Coordinates: 13.296, -16.627
+
+#### Marakissa
+
+Code: GM030602, Coordinates: 13.212, -16.641
+
+#### Nyambai
+
+Code: GM030603, Coordinates: 13.28, -16.673
+
+#### Suba
+
+Code: GM030604, Coordinates: 13.269, -16.638
+
+### Kombo East
+
+Code: GM0307, Coordinates: 13.25, -16.506
+Wards: 3
+
+#### Giboro
+
+Code: GM030701, Coordinates: 13.251, -16.579
+
+#### Kafuta
+
+Code: GM030702, Coordinates: 13.23, -16.47
+
+#### Pirang
+
+Code: GM030703, Coordinates: 13.278, -16.556
+
+### Kombo North/St Marie
+
+Code: GM0308, Coordinates: 13.381, -16.701
+Wards: 4
+
+#### Banjulunding
+
+Code: GM030801, Coordinates: 13.385, -16.677
+
+#### Busumbala
+
+Code: GM030802, Coordinates: 13.365, -16.735
+
+#### Lamin
+
+Code: GM030803, Coordinates: 13.363, -16.611
+
+#### Sukuta
+
+Code: GM030804, Coordinates: 13.414, -16.715
+
+### Kombo South
+
+Code: GM0309, Coordinates: 13.204, -16.731
+Wards: 3
+
+#### Gunjur
+
+Code: GM030901, Coordinates: 13.185, -16.755
+
+#### Karthong
+
+Code: GM030902, Coordinates: 13.134, -16.732
+
+#### Sanyang
+
+Code: GM030903, Coordinates: 13.301, -16.733
+

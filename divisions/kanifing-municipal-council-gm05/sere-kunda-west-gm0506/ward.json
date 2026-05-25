@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GM050601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakoteh",
+      "en": "Bakoteh",
+      "slug": "bakoteh-gm050601"
+    },
+    "code": {
+      "id": "GM050601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0506",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda West",
+        "en": "Sere Kunda West",
+        "slug": "sere-kunda-west-gm0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0506",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda West",
+          "en": "Sere Kunda West",
+          "slug": "sere-kunda-west-gm0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.433",
+      "lon": "-16.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dippa Kunda",
+      "en": "Dippa Kunda",
+      "slug": "dippa-kunda-gm050602"
+    },
+    "code": {
+      "id": "GM050602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0506",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda West",
+        "en": "Sere Kunda West",
+        "slug": "sere-kunda-west-gm0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0506",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda West",
+          "en": "Sere Kunda West",
+          "slug": "sere-kunda-west-gm0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.443",
+      "lon": "-16.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kololi",
+      "en": "Kololi",
+      "slug": "kololi-gm050603"
+    },
+    "code": {
+      "id": "GM050603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0506",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda West",
+        "en": "Sere Kunda West",
+        "slug": "sere-kunda-west-gm0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0506",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda West",
+          "en": "Sere Kunda West",
+          "slug": "sere-kunda-west-gm0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.451",
+      "lon": "-16.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Latri Kunda Yiringanya",
+      "en": "Latri Kunda Yiringanya",
+      "slug": "latri-kunda-yiringanya-gm050604"
+    },
+    "code": {
+      "id": "GM050604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0506",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda West",
+        "en": "Sere Kunda West",
+        "slug": "sere-kunda-west-gm0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0506",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda West",
+          "en": "Sere Kunda West",
+          "slug": "sere-kunda-west-gm0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.453",
+      "lon": "-16.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manjai Kunda",
+      "en": "Manjai Kunda",
+      "slug": "manjai-kunda-gm050605"
+    },
+    "code": {
+      "id": "GM050605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0506",
+      "level": 2,
+      "name": {
+        "local": "Sere Kunda West",
+        "en": "Sere Kunda West",
+        "slug": "sere-kunda-west-gm0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0506",
+        "level": 2,
+        "name": {
+          "local": "Sere Kunda West",
+          "en": "Sere Kunda West",
+          "slug": "sere-kunda-west-gm0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.45",
+      "lon": "-16.696"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

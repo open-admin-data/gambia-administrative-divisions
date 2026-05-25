@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GM030801",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Banjulunding",
+      "en": "Banjulunding",
+      "slug": "banjulunding-gm030801"
+    },
+    "code": {
+      "id": "GM030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0308",
+      "level": 2,
+      "name": {
+        "local": "Kombo North/St Marie",
+        "en": "Kombo North/St Marie",
+        "slug": "kombo-northst-marie-gm0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0308",
+        "level": 2,
+        "name": {
+          "local": "Kombo North/St Marie",
+          "en": "Kombo North/St Marie",
+          "slug": "kombo-northst-marie-gm0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.385",
+      "lon": "-16.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030802",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Busumbala",
+      "en": "Busumbala",
+      "slug": "busumbala-gm030802"
+    },
+    "code": {
+      "id": "GM030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0308",
+      "level": 2,
+      "name": {
+        "local": "Kombo North/St Marie",
+        "en": "Kombo North/St Marie",
+        "slug": "kombo-northst-marie-gm0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0308",
+        "level": 2,
+        "name": {
+          "local": "Kombo North/St Marie",
+          "en": "Kombo North/St Marie",
+          "slug": "kombo-northst-marie-gm0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.365",
+      "lon": "-16.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030803",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lamin",
+      "en": "Lamin",
+      "slug": "lamin-gm030803"
+    },
+    "code": {
+      "id": "GM030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0308",
+      "level": 2,
+      "name": {
+        "local": "Kombo North/St Marie",
+        "en": "Kombo North/St Marie",
+        "slug": "kombo-northst-marie-gm0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0308",
+        "level": 2,
+        "name": {
+          "local": "Kombo North/St Marie",
+          "en": "Kombo North/St Marie",
+          "slug": "kombo-northst-marie-gm0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.363",
+      "lon": "-16.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030804",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sukuta",
+      "en": "Sukuta",
+      "slug": "sukuta-gm030804"
+    },
+    "code": {
+      "id": "GM030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0308",
+      "level": 2,
+      "name": {
+        "local": "Kombo North/St Marie",
+        "en": "Kombo North/St Marie",
+        "slug": "kombo-northst-marie-gm0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0308",
+        "level": 2,
+        "name": {
+          "local": "Kombo North/St Marie",
+          "en": "Kombo North/St Marie",
+          "slug": "kombo-northst-marie-gm0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.414",
+      "lon": "-16.715"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

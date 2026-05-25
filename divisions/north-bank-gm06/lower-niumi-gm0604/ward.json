@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM060401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Essau",
+      "en": "Essau",
+      "slug": "essau-gm060401"
+    },
+    "code": {
+      "id": "GM060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0604",
+      "level": 2,
+      "name": {
+        "local": "Lower Niumi",
+        "en": "Lower Niumi",
+        "slug": "lower-niumi-gm0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0604",
+        "level": 2,
+        "name": {
+          "local": "Lower Niumi",
+          "en": "Lower Niumi",
+          "slug": "lower-niumi-gm0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.523",
+      "lon": "-16.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Medina Sering Mass",
+      "en": "Medina Sering Mass",
+      "slug": "medina-sering-mass-gm060402"
+    },
+    "code": {
+      "id": "GM060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0604",
+      "level": 2,
+      "name": {
+        "local": "Lower Niumi",
+        "en": "Lower Niumi",
+        "slug": "lower-niumi-gm0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0604",
+        "level": 2,
+        "name": {
+          "local": "Lower Niumi",
+          "en": "Lower Niumi",
+          "slug": "lower-niumi-gm0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.509",
+      "lon": "-16.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

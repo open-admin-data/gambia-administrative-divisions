@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM030401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sintet",
+      "en": "Sintet",
+      "slug": "sintet-gm030401"
+    },
+    "code": {
+      "id": "GM030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0304",
+      "level": 2,
+      "name": {
+        "local": "Foni Jarrol",
+        "en": "Foni Jarrol",
+        "slug": "foni-jarrol-gm0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0304",
+        "level": 2,
+        "name": {
+          "local": "Foni Jarrol",
+          "en": "Foni Jarrol",
+          "slug": "foni-jarrol-gm0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.222",
+      "lon": "-15.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wassadou",
+      "en": "Wassadou",
+      "slug": "wassadou-gm030402"
+    },
+    "code": {
+      "id": "GM030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0304",
+      "level": 2,
+      "name": {
+        "local": "Foni Jarrol",
+        "en": "Foni Jarrol",
+        "slug": "foni-jarrol-gm0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0304",
+        "level": 2,
+        "name": {
+          "local": "Foni Jarrol",
+          "en": "Foni Jarrol",
+          "slug": "foni-jarrol-gm0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.223",
+      "lon": "-15.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

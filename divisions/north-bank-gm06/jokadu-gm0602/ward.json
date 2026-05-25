@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM060201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Darsilami",
+      "en": "Darsilami",
+      "slug": "darsilami-gm060201"
+    },
+    "code": {
+      "id": "GM060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0602",
+      "level": 2,
+      "name": {
+        "local": "Jokadu",
+        "en": "Jokadu",
+        "slug": "jokadu-gm0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0602",
+        "level": 2,
+        "name": {
+          "local": "Jokadu",
+          "en": "Jokadu",
+          "slug": "jokadu-gm0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.516",
+      "lon": "-16.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kerewan 2",
+      "en": "Kerewan 2",
+      "slug": "kerewan-2-gm060202"
+    },
+    "code": {
+      "id": "GM060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0602",
+      "level": 2,
+      "name": {
+        "local": "Jokadu",
+        "en": "Jokadu",
+        "slug": "jokadu-gm0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0602",
+        "level": 2,
+        "name": {
+          "local": "Jokadu",
+          "en": "Jokadu",
+          "slug": "jokadu-gm0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.517",
+      "lon": "-16.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kerr Jarga",
+      "en": "Kerr Jarga",
+      "slug": "kerr-jarga-gm060203"
+    },
+    "code": {
+      "id": "GM060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0602",
+      "level": 2,
+      "name": {
+        "local": "Jokadu",
+        "en": "Jokadu",
+        "slug": "jokadu-gm0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0602",
+        "level": 2,
+        "name": {
+          "local": "Jokadu",
+          "en": "Jokadu",
+          "slug": "jokadu-gm0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.505",
+      "lon": "-16.213"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM030501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bwiam",
+      "en": "Bwiam",
+      "slug": "bwiam-gm030501"
+    },
+    "code": {
+      "id": "GM030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0305",
+      "level": 2,
+      "name": {
+        "local": "Foni Kansala",
+        "en": "Foni Kansala",
+        "slug": "foni-kansala-gm0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0305",
+        "level": 2,
+        "name": {
+          "local": "Foni Kansala",
+          "en": "Foni Kansala",
+          "slug": "foni-kansala-gm0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.233",
+      "lon": "-16.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanilai",
+      "en": "Kanilai",
+      "slug": "kanilai-gm030502"
+    },
+    "code": {
+      "id": "GM030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0305",
+      "level": 2,
+      "name": {
+        "local": "Foni Kansala",
+        "en": "Foni Kansala",
+        "slug": "foni-kansala-gm0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0305",
+        "level": 2,
+        "name": {
+          "local": "Foni Kansala",
+          "en": "Foni Kansala",
+          "slug": "foni-kansala-gm0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.238",
+      "lon": "-16.033"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

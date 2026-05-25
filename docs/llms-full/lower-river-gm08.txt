@@ -1,0 +1,87 @@
+# Lower River — Gambia Administrative Divisions
+
+> 6 districts, 12 wards
+> Code: GM08
+> Coordinates: 13.4, -15.704
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Jarra Central
+
+Code: GM0801, Coordinates: 13.413, -15.415
+Wards: 2
+
+#### Buiba
+
+Code: GM080101, Coordinates: 13.421, -15.449
+
+#### Jalembereh
+
+Code: GM080102, Coordinates: 13.4, -15.383
+
+### Jarra East
+
+Code: GM0802, Coordinates: 13.452, -15.261
+Wards: 2
+
+#### Bureng
+
+Code: GM080201, Coordinates: 13.419, -15.284
+
+#### Pakaliba
+
+Code: GM080202, Coordinates: 13.514, -15.252
+
+### Jarra West
+
+Code: GM0803, Coordinates: 13.444, -15.542
+Wards: 2
+
+#### Gikoko
+
+Code: GM080301, Coordinates: 13.441, -15.561
+
+#### Jaduma
+
+Code: GM080302, Coordinates: 13.451, -15.505
+
+### Kiang Central
+
+Code: GM0804, Coordinates: 13.409, -15.756
+Wards: 2
+
+#### Jirroff
+
+Code: GM080401, Coordinates: 13.408, -15.723
+
+#### Kwinella
+
+Code: GM080402, Coordinates: 13.392, -15.788
+
+### Kiang East
+
+Code: GM0805, Coordinates: 13.418, -15.644
+Wards: 2
+
+#### Kaiaf
+
+Code: GM080501, Coordinates: 13.402, -15.622
+
+#### Massembeh
+
+Code: GM080502, Coordinates: 13.421, -15.659
+
+### Kiang West
+
+Code: GM0806, Coordinates: 13.345, -16.009
+Wards: 2
+
+#### Kiang Banta
+
+Code: GM080601, Coordinates: 13.345, -15.87
+
+#### Kiang Julafarr
+
+Code: GM080602, Coordinates: 13.341, -16.081
+

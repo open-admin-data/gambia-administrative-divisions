@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM060601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pakau",
+      "en": "Pakau",
+      "slug": "pakau-gm060601"
+    },
+    "code": {
+      "id": "GM060601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0606",
+      "level": 2,
+      "name": {
+        "local": "Upper Niumi",
+        "en": "Upper Niumi",
+        "slug": "upper-niumi-gm0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0606",
+        "level": 2,
+        "name": {
+          "local": "Upper Niumi",
+          "en": "Upper Niumi",
+          "slug": "upper-niumi-gm0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.409",
+      "lon": "-16.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Prince",
+      "en": "Prince",
+      "slug": "prince-gm060602"
+    },
+    "code": {
+      "id": "GM060602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0606",
+      "level": 2,
+      "name": {
+        "local": "Upper Niumi",
+        "en": "Upper Niumi",
+        "slug": "upper-niumi-gm0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0606",
+        "level": 2,
+        "name": {
+          "local": "Upper Niumi",
+          "en": "Upper Niumi",
+          "slug": "upper-niumi-gm0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.433",
+      "lon": "-16.301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

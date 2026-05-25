@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM080501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaiaf",
+      "en": "Kaiaf",
+      "slug": "kaiaf-gm080501"
+    },
+    "code": {
+      "id": "GM080501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0805",
+      "level": 2,
+      "name": {
+        "local": "Kiang East",
+        "en": "Kiang East",
+        "slug": "kiang-east-gm0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      },
+      {
+        "id": "GM0805",
+        "level": 2,
+        "name": {
+          "local": "Kiang East",
+          "en": "Kiang East",
+          "slug": "kiang-east-gm0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.402",
+      "lon": "-15.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM080502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Massembeh",
+      "en": "Massembeh",
+      "slug": "massembeh-gm080502"
+    },
+    "code": {
+      "id": "GM080502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0805",
+      "level": 2,
+      "name": {
+        "local": "Kiang East",
+        "en": "Kiang East",
+        "slug": "kiang-east-gm0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      },
+      {
+        "id": "GM0805",
+        "level": 2,
+        "name": {
+          "local": "Kiang East",
+          "en": "Kiang East",
+          "slug": "kiang-east-gm0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.421",
+      "lon": "-15.659"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

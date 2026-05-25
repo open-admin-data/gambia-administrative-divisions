@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM050201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanifing",
+      "en": "Kanifing",
+      "slug": "kanifing-gm050201"
+    },
+    "code": {
+      "id": "GM050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0502",
+      "level": 2,
+      "name": {
+        "local": "Jeshwang",
+        "en": "Jeshwang",
+        "slug": "jeshwang-gm0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0502",
+        "level": 2,
+        "name": {
+          "local": "Jeshwang",
+          "en": "Jeshwang",
+          "slug": "jeshwang-gm0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.456",
+      "lon": "-16.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "New Jeshwang and Ebo Town",
+      "en": "New Jeshwang and Ebo Town",
+      "slug": "new-jeshwang-and-ebo-town-gm050202"
+    },
+    "code": {
+      "id": "GM050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0502",
+      "level": 2,
+      "name": {
+        "local": "Jeshwang",
+        "en": "Jeshwang",
+        "slug": "jeshwang-gm0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0502",
+        "level": 2,
+        "name": {
+          "local": "Jeshwang",
+          "en": "Jeshwang",
+          "slug": "jeshwang-gm0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.443",
+      "lon": "-16.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM050203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Old Jeshwang",
+      "en": "Old Jeshwang",
+      "slug": "old-jeshwang-gm050203"
+    },
+    "code": {
+      "id": "GM050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0502",
+      "level": 2,
+      "name": {
+        "local": "Jeshwang",
+        "en": "Jeshwang",
+        "slug": "jeshwang-gm0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM05",
+        "level": 1,
+        "name": {
+          "local": "Kanifing Municipal Council",
+          "en": "Kanifing Municipal Council",
+          "slug": "kanifing-municipal-council-gm05"
+        }
+      },
+      {
+        "id": "GM0502",
+        "level": 2,
+        "name": {
+          "local": "Jeshwang",
+          "en": "Jeshwang",
+          "slug": "jeshwang-gm0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.456",
+      "lon": "-16.659"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

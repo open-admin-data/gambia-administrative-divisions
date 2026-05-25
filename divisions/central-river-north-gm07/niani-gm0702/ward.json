@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM070202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuntaur",
+      "en": "Kuntaur",
+      "slug": "kuntaur-gm070202"
+    },
+    "code": {
+      "id": "GM070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0702",
+      "level": 2,
+      "name": {
+        "local": "Niani",
+        "en": "Niani",
+        "slug": "niani-gm0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0702",
+        "level": 2,
+        "name": {
+          "local": "Niani",
+          "en": "Niani",
+          "slug": "niani-gm0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.654",
+      "lon": "-14.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM070201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga-gm070201"
+    },
+    "code": {
+      "id": "GM070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0702",
+      "level": 2,
+      "name": {
+        "local": "Niani",
+        "en": "Niani",
+        "slug": "niani-gm0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM07",
+        "level": 1,
+        "name": {
+          "local": "Central River North",
+          "en": "Central River North",
+          "slug": "central-river-north-gm07"
+        }
+      },
+      {
+        "id": "GM0702",
+        "level": 2,
+        "name": {
+          "local": "Niani",
+          "en": "Niani",
+          "slug": "niani-gm0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.751",
+      "lon": "-14.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

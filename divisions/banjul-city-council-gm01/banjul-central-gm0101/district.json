@@ -1,0 +1,47 @@
+{
+  "id": "GM0101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banjul Central",
+    "en": "Banjul Central",
+    "slug": "banjul-central-gm0101"
+  },
+  "code": {
+    "id": "GM0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM01",
+    "level": 1,
+    "name": {
+      "local": "Banjul City Council",
+      "en": "Banjul City Council",
+      "slug": "banjul-city-council-gm01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM01",
+      "level": 1,
+      "name": {
+        "local": "Banjul City Council",
+        "en": "Banjul City Council",
+        "slug": "banjul-city-council-gm01"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.454",
+    "lon": "-16.58"
+  },
+  "metadata": {},
+  "source": {}
+}

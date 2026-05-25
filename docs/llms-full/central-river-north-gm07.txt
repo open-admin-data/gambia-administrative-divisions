@@ -1,0 +1,74 @@
+# Central River North — Gambia Administrative Divisions
+
+> 5 districts, 10 wards
+> Code: GM07
+> Coordinates: 13.628, -14.853
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Lower Saloum
+
+Code: GM0701, Coordinates: 13.704, -15.364
+Wards: 2
+
+#### Ballangharr
+
+Code: GM070101, Coordinates: 13.672, -15.407
+
+#### Kaur
+
+Code: GM070102, Coordinates: 13.719, -15.363
+
+### Niani
+
+Code: GM0702, Coordinates: 13.675, -14.845
+Wards: 2
+
+#### Kuntaur
+
+Code: GM070202, Coordinates: 13.654, -14.844
+
+#### Nyanga
+
+Code: GM070201, Coordinates: 13.751, -14.939
+
+### Nianija
+
+Code: GM0703, Coordinates: 13.717, -15.129
+Wards: 1
+
+#### Chamen
+
+Code: GM070301, Coordinates: 13.717, -15.129
+
+### Sami
+
+Code: GM0704, Coordinates: 13.545, -14.694
+Wards: 3
+
+#### Banni
+
+Code: GM070401, Coordinates: 13.531, -14.669
+
+#### Karantaba
+
+Code: GM070402, Coordinates: 13.602, -14.596
+
+#### Pachonki
+
+Code: GM070403, Coordinates: 13.526, -14.51
+
+### Upper Saloum
+
+Code: GM0705, Coordinates: 13.733, -15.247
+Wards: 2
+
+#### Njaw
+
+Code: GM070502, Coordinates: 13.716, -15.238
+
+#### Panchang
+
+Code: GM070501, Coordinates: 13.79, -15.077
+

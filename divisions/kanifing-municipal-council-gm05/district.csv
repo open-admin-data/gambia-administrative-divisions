@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0501,Bakau,Bakau,bakau-gm0501,GM0501,2,13.471,-16.666
+GM0502,Jeshwang,Jeshwang,jeshwang-gm0502,GM0502,3,13.451,-16.667
+GM0503,Mangrove,Mangrove,mangrove-gm0503,GM0503,1,13.424,-16.627
+GM0504,Sere Kunda Central,Sere Kunda Central,sere-kunda-central-gm0504,GM0504,3,13.431,-16.683
+GM0505,Sere Kunda East,Sere Kunda East,sere-kunda-east-gm0505,GM0505,4,13.411,-16.661
+GM0506,Sere Kunda West,Sere Kunda West,sere-kunda-west-gm0506,GM0506,5,13.446,-16.7

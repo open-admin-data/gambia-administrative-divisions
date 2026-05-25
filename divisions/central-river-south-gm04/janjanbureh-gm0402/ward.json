@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GM040201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "MacCarthy",
+      "en": "MacCarthy",
+      "slug": "maccarthy-gm040201"
+    },
+    "code": {
+      "id": "GM040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0402",
+      "level": 2,
+      "name": {
+        "local": "Janjanbureh",
+        "en": "Janjanbureh",
+        "slug": "janjanbureh-gm0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM04",
+        "level": 1,
+        "name": {
+          "local": "Central River South",
+          "en": "Central River South",
+          "slug": "central-river-south-gm04"
+        }
+      },
+      {
+        "id": "GM0402",
+        "level": 2,
+        "name": {
+          "local": "Janjanbureh",
+          "en": "Janjanbureh",
+          "slug": "janjanbureh-gm0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.541",
+      "lon": "-14.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

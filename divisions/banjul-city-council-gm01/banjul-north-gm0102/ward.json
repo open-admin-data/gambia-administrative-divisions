@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GM010201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Box Bar",
+      "en": "Box Bar",
+      "slug": "box-bar-gm010201"
+    },
+    "code": {
+      "id": "GM010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0102",
+      "level": 2,
+      "name": {
+        "local": "Banjul North",
+        "en": "Banjul North",
+        "slug": "banjul-north-gm0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      },
+      {
+        "id": "GM0102",
+        "level": 2,
+        "name": {
+          "local": "Banjul North",
+          "en": "Banjul North",
+          "slug": "banjul-north-gm0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "-16.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM010202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Campama",
+      "en": "Campama",
+      "slug": "campama-gm010202"
+    },
+    "code": {
+      "id": "GM010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0102",
+      "level": 2,
+      "name": {
+        "local": "Banjul North",
+        "en": "Banjul North",
+        "slug": "banjul-north-gm0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      },
+      {
+        "id": "GM0102",
+        "level": 2,
+        "name": {
+          "local": "Banjul North",
+          "en": "Banjul North",
+          "slug": "banjul-north-gm0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.458",
+      "lon": "-16.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM010203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Crab Island",
+      "en": "Crab Island",
+      "slug": "crab-island-gm010203"
+    },
+    "code": {
+      "id": "GM010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0102",
+      "level": 2,
+      "name": {
+        "local": "Banjul North",
+        "en": "Banjul North",
+        "slug": "banjul-north-gm0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM01",
+        "level": 1,
+        "name": {
+          "local": "Banjul City Council",
+          "en": "Banjul City Council",
+          "slug": "banjul-city-council-gm01"
+        }
+      },
+      {
+        "id": "GM0102",
+        "level": 2,
+        "name": {
+          "local": "Banjul North",
+          "en": "Banjul North",
+          "slug": "banjul-north-gm0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.453",
+      "lon": "-16.584"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

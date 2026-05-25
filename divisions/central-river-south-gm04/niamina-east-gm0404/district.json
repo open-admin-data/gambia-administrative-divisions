@@ -1,0 +1,47 @@
+{
+  "id": "GM0404",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Niamina East",
+    "en": "Niamina East",
+    "slug": "niamina-east-gm0404"
+  },
+  "code": {
+    "id": "GM0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM04",
+    "level": 1,
+    "name": {
+      "local": "Central River South",
+      "en": "Central River South",
+      "slug": "central-river-south-gm04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM04",
+      "level": 1,
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.634",
+    "lon": "-15.085"
+  },
+  "metadata": {},
+  "source": {}
+}

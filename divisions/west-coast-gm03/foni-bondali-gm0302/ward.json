@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM030201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bantanjang",
+      "en": "Bantanjang",
+      "slug": "bantanjang-gm030201"
+    },
+    "code": {
+      "id": "GM030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0302",
+      "level": 2,
+      "name": {
+        "local": "Foni Bondali",
+        "en": "Foni Bondali",
+        "slug": "foni-bondali-gm0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0302",
+        "level": 2,
+        "name": {
+          "local": "Foni Bondali",
+          "en": "Foni Bondali",
+          "slug": "foni-bondali-gm0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.253",
+      "lon": "-15.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM030202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayork",
+      "en": "Mayork",
+      "slug": "mayork-gm030202"
+    },
+    "code": {
+      "id": "GM030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0302",
+      "level": 2,
+      "name": {
+        "local": "Foni Bondali",
+        "en": "Foni Bondali",
+        "slug": "foni-bondali-gm0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM03",
+        "level": 1,
+        "name": {
+          "local": "West Coast",
+          "en": "West Coast",
+          "slug": "west-coast-gm03"
+        }
+      },
+      {
+        "id": "GM0302",
+        "level": 2,
+        "name": {
+          "local": "Foni Bondali",
+          "en": "Foni Bondali",
+          "slug": "foni-bondali-gm0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.209",
+      "lon": "-15.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

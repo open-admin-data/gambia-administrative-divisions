@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM060701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabach",
+      "en": "Sabach",
+      "slug": "sabach-gm060701"
+    },
+    "code": {
+      "id": "GM060701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0607",
+      "level": 2,
+      "name": {
+        "local": "Sabach - Sanjal",
+        "en": "Sabach - Sanjal",
+        "slug": "sabach-sanjal-gm0607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0607",
+        "level": 2,
+        "name": {
+          "local": "Sabach - Sanjal",
+          "en": "Sabach - Sanjal",
+          "slug": "sabach-sanjal-gm0607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.536",
+      "lon": "-15.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM060702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sanjal",
+      "en": "Sanjal",
+      "slug": "sanjal-gm060702"
+    },
+    "code": {
+      "id": "GM060702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0607",
+      "level": 2,
+      "name": {
+        "local": "Sabach - Sanjal",
+        "en": "Sabach - Sanjal",
+        "slug": "sabach-sanjal-gm0607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      },
+      {
+        "id": "GM0607",
+        "level": 2,
+        "name": {
+          "local": "Sabach - Sanjal",
+          "en": "Sabach - Sanjal",
+          "slug": "sabach-sanjal-gm0607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.545",
+      "lon": "-15.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

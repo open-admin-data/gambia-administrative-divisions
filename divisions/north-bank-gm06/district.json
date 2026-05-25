@@ -1,0 +1,331 @@
+[
+  {
+    "id": "GM0601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Baddibu",
+      "en": "Central Baddibu",
+      "slug": "central-baddibu-gm0601"
+    },
+    "code": {
+      "id": "GM0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.519",
+      "lon": "-15.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Illiassa",
+      "en": "Illiassa",
+      "slug": "illiassa-gm0605"
+    },
+    "code": {
+      "id": "GM0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.524",
+      "lon": "-15.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jokadu",
+      "en": "Jokadu",
+      "slug": "jokadu-gm0602"
+    },
+    "code": {
+      "id": "GM0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.511",
+      "lon": "-16.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Baddibu",
+      "en": "Lower Baddibu",
+      "slug": "lower-baddibu-gm0603"
+    },
+    "code": {
+      "id": "GM0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.519",
+      "lon": "-16.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Niumi",
+      "en": "Lower Niumi",
+      "slug": "lower-niumi-gm0604"
+    },
+    "code": {
+      "id": "GM0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.506",
+      "lon": "-16.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0607",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabach - Sanjal",
+      "en": "Sabach - Sanjal",
+      "slug": "sabach-sanjal-gm0607"
+    },
+    "code": {
+      "id": "GM0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.545",
+      "lon": "-15.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM0606",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Niumi",
+      "en": "Upper Niumi",
+      "slug": "upper-niumi-gm0606"
+    },
+    "code": {
+      "id": "GM0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM06",
+      "level": 1,
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM06",
+        "level": 1,
+        "name": {
+          "local": "North Bank",
+          "en": "North Bank",
+          "slug": "north-bank-gm06"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.43",
+      "lon": "-16.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

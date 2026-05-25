@@ -1,0 +1,30 @@
+{
+  "id": "GM08",
+  "level": 1,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Lower River",
+    "en": "Lower River",
+    "slug": "lower-river-gm08"
+  },
+  "code": {
+    "id": "GM08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.4",
+    "lon": "-15.704"
+  },
+  "metadata": {},
+  "source": {}
+}

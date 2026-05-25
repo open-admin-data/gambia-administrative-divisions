@@ -1,0 +1,47 @@
+{
+  "id": "GM0201",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Basse",
+    "en": "Basse",
+    "slug": "basse-gm0201"
+  },
+  "code": {
+    "id": "GM0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM02",
+    "level": 1,
+    "name": {
+      "local": "Upper River",
+      "en": "Upper River",
+      "slug": "upper-river-gm02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.292",
+    "lon": "-14.201"
+  },
+  "metadata": {},
+  "source": {}
+}

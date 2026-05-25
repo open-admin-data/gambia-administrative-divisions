@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GM080301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gikoko",
+      "en": "Gikoko",
+      "slug": "gikoko-gm080301"
+    },
+    "code": {
+      "id": "GM080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0803",
+      "level": 2,
+      "name": {
+        "local": "Jarra West",
+        "en": "Jarra West",
+        "slug": "jarra-west-gm0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      },
+      {
+        "id": "GM0803",
+        "level": 2,
+        "name": {
+          "local": "Jarra West",
+          "en": "Jarra West",
+          "slug": "jarra-west-gm0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.441",
+      "lon": "-15.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GM080302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jaduma",
+      "en": "Jaduma",
+      "slug": "jaduma-gm080302"
+    },
+    "code": {
+      "id": "GM080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GM0803",
+      "level": 2,
+      "name": {
+        "local": "Jarra West",
+        "en": "Jarra West",
+        "slug": "jarra-west-gm0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GM08",
+        "level": 1,
+        "name": {
+          "local": "Lower River",
+          "en": "Lower River",
+          "slug": "lower-river-gm08"
+        }
+      },
+      {
+        "id": "GM0803",
+        "level": 2,
+        "name": {
+          "local": "Jarra West",
+          "en": "Jarra West",
+          "slug": "jarra-west-gm0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.451",
+      "lon": "-15.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

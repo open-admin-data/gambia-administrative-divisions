@@ -1,0 +1,100 @@
+# Upper River — Gambia Administrative Divisions
+
+> 7 districts, 14 wards
+> Code: GM02
+> Coordinates: 13.398, -14.148
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Basse
+
+Code: GM0201, Coordinates: 13.292, -14.201
+Wards: 2
+
+#### Basse
+
+Code: GM020101, Coordinates: 13.297, -14.214
+
+#### Sabi
+
+Code: GM020102, Coordinates: 13.255, -14.163
+
+### Jimara
+
+Code: GM0204, Coordinates: 13.327, -14.45
+Wards: 2
+
+#### Gambissara
+
+Code: GM020401, Coordinates: 13.279, -14.301
+
+#### Julangel
+
+Code: GM020402, Coordinates: 13.325, -14.454
+
+### Kantora
+
+Code: GM0202, Coordinates: 13.414, -13.839
+Wards: 2
+
+#### Garawol
+
+Code: GM020201, Coordinates: 13.396, -13.948
+
+#### Koina
+
+Code: GM020202, Coordinates: 13.416, -13.839
+
+### Sandu
+
+Code: GM0203, Coordinates: 13.426, -14.375
+Wards: 2
+
+#### Diabugu
+
+Code: GM020301, Coordinates: 13.45, -14.432
+
+#### Misera
+
+Code: GM020302, Coordinates: 13.397, -14.326
+
+### Tumana
+
+Code: GM0205, Coordinates: 13.369, -14.085
+Wards: 2
+
+#### Dampha Kunda
+
+Code: GM020502, Coordinates: 13.354, -14.161
+
+#### Kularr
+
+Code: GM020504, Coordinates: 13.381, -14.045
+
+### Wuli East
+
+Code: GM0207, Coordinates: 13.484, -14
+Wards: 2
+
+#### Baja Kunda
+
+Code: GM020701, Coordinates: 13.474, -14.047
+
+#### Foday Kunda
+
+Code: GM020703, Coordinates: 13.494, -13.946
+
+### Wuli West
+
+Code: GM0206, Coordinates: 13.431, -14.171
+Wards: 2
+
+#### Sare Ngai
+
+Code: GM020601, Coordinates: 13.46, -14.164
+
+#### Sutukonding
+
+Code: GM020602, Coordinates: 13.394, -14.229
+

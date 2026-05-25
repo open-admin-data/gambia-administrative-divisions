@@ -1,0 +1,30 @@
+{
+  "id": "GM06",
+  "level": 1,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "North Bank",
+    "en": "North Bank",
+    "slug": "north-bank-gm06"
+  },
+  "code": {
+    "id": "GM06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "ward": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.487",
+    "lon": "-16.13"
+  },
+  "metadata": {},
+  "source": {}
+}

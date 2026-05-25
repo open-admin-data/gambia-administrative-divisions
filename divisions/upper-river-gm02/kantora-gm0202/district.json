@@ -1,0 +1,47 @@
+{
+  "id": "GM0202",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kantora",
+    "en": "Kantora",
+    "slug": "kantora-gm0202"
+  },
+  "code": {
+    "id": "GM0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "GM02",
+    "level": 1,
+    "name": {
+      "local": "Upper River",
+      "en": "Upper River",
+      "slug": "upper-river-gm02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GM02",
+      "level": 1,
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.414",
+    "lon": "-13.839"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+GM0601,Central Baddibu,Central Baddibu,central-baddibu-gm0601,GM0601,2,13.519,-15.92
+GM0605,Illiassa,Illiassa,illiassa-gm0605,GM0605,4,13.524,-15.703
+GM0602,Jokadu,Jokadu,jokadu-gm0602,GM0602,3,13.511,-16.149
+GM0603,Lower Baddibu,Lower Baddibu,lower-baddibu-gm0603,GM0603,1,13.519,-16.034
+GM0604,Lower Niumi,Lower Niumi,lower-niumi-gm0604,GM0604,2,13.506,-16.427
+GM0607,Sabach - Sanjal,Sabach - Sanjal,sabach-sanjal-gm0607,GM0607,2,13.545,-15.47
+GM0606,Upper Niumi,Upper Niumi,upper-niumi-gm0606,GM0606,2,13.43,-16.338

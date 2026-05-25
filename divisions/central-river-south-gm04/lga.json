@@ -1,0 +1,30 @@
+{
+  "id": "GM04",
+  "level": 1,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Central River South",
+    "en": "Central River South",
+    "slug": "central-river-south-gm04"
+  },
+  "code": {
+    "id": "GM04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.523",
+    "lon": "-14.878"
+  },
+  "metadata": {},
+  "source": {}
+}

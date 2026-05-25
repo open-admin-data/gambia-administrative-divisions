@@ -1,0 +1,68 @@
+# Gambia Administrative Divisions
+
+> Open dataset of Gambia's administrative hierarchy:
+> 8 local government areas, 49 districts, 115 wards.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total local government areas: 8
+- Total districts: 49
+- Total wards: 115
+- Coordinates: included (all levels)
+- Last updated: 2026-05-25
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All local government areas (JSON)](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/data/all-lga.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/data/all-district.json)
+- [All wards (JSON)](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/data/all-ward.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/data/schema.json)
+
+## Browse by Local Government Area
+
+- [Banjul City Council](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/banjul-city-council-gm01/) — 3 districts, 9 wards
+- [Central River North](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/central-river-north-gm07/) — 5 districts, 10 wards
+- [Central River South](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/central-river-south-gm04/) — 6 districts, 12 wards
+- [Kanifing Municipal Council](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/kanifing-municipal-council-gm05/) — 6 districts, 18 wards
+- [Lower River](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/lower-river-gm08/) — 6 districts, 12 wards
+- [North Bank](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/north-bank-gm06/) — 7 districts, 16 wards
+- [Upper River](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/upper-river-gm02/) — 7 districts, 14 wards
+- [West Coast](https://github.com/open-admin-data/gambia-administrative-divisions/tree/main/divisions/west-coast-gm03/) — 9 districts, 24 wards
+
+## Per-Local Government Area Full Data
+
+- [Banjul City Council](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/banjul-city-council-gm01.txt)
+- [Central River North](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/central-river-north-gm07.txt)
+- [Central River South](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/central-river-south-gm04.txt)
+- [Kanifing Municipal Council](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/kanifing-municipal-council-gm05.txt)
+- [Lower River](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/lower-river-gm08.txt)
+- [North Bank](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/north-bank-gm06.txt)
+- [Upper River](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/upper-river-gm02.txt)
+- [West Coast](https://raw.githubusercontent.com/open-admin-data/gambia-administrative-divisions/main/docs/llms-full/west-coast-gm03.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (local government area), 2 (district), 3 (ward)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Gambia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/gambia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)
