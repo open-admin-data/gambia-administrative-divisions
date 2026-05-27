@@ -3,7 +3,7 @@
 > 7 districts, 16 wards
 > Code: GM06
 > Coordinates: 13.487, -16.13
-> Last updated: 2026-05-25. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

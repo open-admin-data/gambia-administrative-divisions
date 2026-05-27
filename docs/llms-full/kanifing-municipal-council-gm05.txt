@@ -3,7 +3,7 @@
 > 6 districts, 18 wards
 > Code: GM05
 > Coordinates: 13.435, -16.655
-> Last updated: 2026-05-25. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

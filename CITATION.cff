@@ -5,7 +5,7 @@ authors:
   - name: "jakkrapongt"
 title: "Gambia Administrative Divisions Dataset"
 version: "2026.05"
-date-released: "2026-05-25"
+date-released: "2026-05-27"
 url: "https://github.com/open-admin-data/gambia-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/gambia-administrative-divisions"
 license: CC-BY-4.0
