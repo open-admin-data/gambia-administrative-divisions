@@ -1,2180 +1,2183 @@
-[
-  {
-    "id": "GM01",
-    "name": {
-      "local": "Banjul City Council",
-      "en": "Banjul City Council",
-      "slug": "banjul-city-council-gm01"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/gm/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/gambia-administrative-divisions",
+  "data": [
+    {
       "id": "GM01",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0101",
-        "name": {
-          "local": "Banjul Central",
-          "en": "Banjul Central",
-          "slug": "banjul-central-gm0101"
-        },
-        "code": {
+      "name": {
+        "local": "Banjul City Council",
+        "en": "Banjul City Council",
+        "slug": "banjul-city-council-gm01"
+      },
+      "code": {
+        "id": "GM01",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0101",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM010101",
-            "name": {
-              "local": "New Town East",
-              "en": "New Town East",
-              "slug": "new-town-east-gm010101"
-            },
-            "code": {
+          "name": {
+            "local": "Banjul Central",
+            "en": "Banjul Central",
+            "slug": "banjul-central-gm0101"
+          },
+          "code": {
+            "id": "GM0101",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM010101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM010102",
-            "name": {
-              "local": "New Town West",
-              "en": "New Town West",
-              "slug": "new-town-west-gm010102"
+              "name": {
+                "local": "New Town East",
+                "en": "New Town East",
+                "slug": "new-town-east-gm010101"
+              },
+              "code": {
+                "id": "GM010101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM010102",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM010103",
-            "name": {
-              "local": "Soldier Town",
-              "en": "Soldier Town",
-              "slug": "soldier-town-gm010103"
+              "name": {
+                "local": "New Town West",
+                "en": "New Town West",
+                "slug": "new-town-west-gm010102"
+              },
+              "code": {
+                "id": "GM010102",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM010103",
-              "iso": null
+              "name": {
+                "local": "Soldier Town",
+                "en": "Soldier Town",
+                "slug": "soldier-town-gm010103"
+              },
+              "code": {
+                "id": "GM010103",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0102",
-        "name": {
-          "local": "Banjul North",
-          "en": "Banjul North",
-          "slug": "banjul-north-gm0102"
+          ]
         },
-        "code": {
+        {
           "id": "GM0102",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM010201",
-            "name": {
-              "local": "Box Bar",
-              "en": "Box Bar",
-              "slug": "box-bar-gm010201"
-            },
-            "code": {
+          "name": {
+            "local": "Banjul North",
+            "en": "Banjul North",
+            "slug": "banjul-north-gm0102"
+          },
+          "code": {
+            "id": "GM0102",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM010201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM010202",
-            "name": {
-              "local": "Campama",
-              "en": "Campama",
-              "slug": "campama-gm010202"
+              "name": {
+                "local": "Box Bar",
+                "en": "Box Bar",
+                "slug": "box-bar-gm010201"
+              },
+              "code": {
+                "id": "GM010201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM010202",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM010203",
-            "name": {
-              "local": "Crab Island",
-              "en": "Crab Island",
-              "slug": "crab-island-gm010203"
+              "name": {
+                "local": "Campama",
+                "en": "Campama",
+                "slug": "campama-gm010202"
+              },
+              "code": {
+                "id": "GM010202",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM010203",
-              "iso": null
+              "name": {
+                "local": "Crab Island",
+                "en": "Crab Island",
+                "slug": "crab-island-gm010203"
+              },
+              "code": {
+                "id": "GM010203",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0103",
-        "name": {
-          "local": "Banjul South",
-          "en": "Banjul South",
-          "slug": "banjul-south-gm0103"
+          ]
         },
-        "code": {
+        {
           "id": "GM0103",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM010301",
-            "name": {
-              "local": "Half Die",
-              "en": "Half Die",
-              "slug": "half-die-gm010301"
-            },
-            "code": {
+          "name": {
+            "local": "Banjul South",
+            "en": "Banjul South",
+            "slug": "banjul-south-gm0103"
+          },
+          "code": {
+            "id": "GM0103",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM010301",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM010302",
-            "name": {
-              "local": "Jollof Town",
-              "en": "Jollof Town",
-              "slug": "jollof-town-gm010302"
+              "name": {
+                "local": "Half Die",
+                "en": "Half Die",
+                "slug": "half-die-gm010301"
+              },
+              "code": {
+                "id": "GM010301",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM010302",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM010303",
-            "name": {
-              "local": "Portugiese Town",
-              "en": "Portugiese Town",
-              "slug": "portugiese-town-gm010303"
+              "name": {
+                "local": "Jollof Town",
+                "en": "Jollof Town",
+                "slug": "jollof-town-gm010302"
+              },
+              "code": {
+                "id": "GM010302",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM010303",
-              "iso": null
+              "name": {
+                "local": "Portugiese Town",
+                "en": "Portugiese Town",
+                "slug": "portugiese-town-gm010303"
+              },
+              "code": {
+                "id": "GM010303",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM07",
-    "name": {
-      "local": "Central River North",
-      "en": "Central River North",
-      "slug": "central-river-north-gm07"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM07",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0701",
-        "name": {
-          "local": "Lower Saloum",
-          "en": "Lower Saloum",
-          "slug": "lower-saloum-gm0701"
-        },
-        "code": {
+      "name": {
+        "local": "Central River North",
+        "en": "Central River North",
+        "slug": "central-river-north-gm07"
+      },
+      "code": {
+        "id": "GM07",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0701",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM070101",
-            "name": {
-              "local": "Ballangharr",
-              "en": "Ballangharr",
-              "slug": "ballangharr-gm070101"
-            },
-            "code": {
+          "name": {
+            "local": "Lower Saloum",
+            "en": "Lower Saloum",
+            "slug": "lower-saloum-gm0701"
+          },
+          "code": {
+            "id": "GM0701",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM070101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM070102",
-            "name": {
-              "local": "Kaur",
-              "en": "Kaur",
-              "slug": "kaur-gm070102"
+              "name": {
+                "local": "Ballangharr",
+                "en": "Ballangharr",
+                "slug": "ballangharr-gm070101"
+              },
+              "code": {
+                "id": "GM070101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM070102",
-              "iso": null
+              "name": {
+                "local": "Kaur",
+                "en": "Kaur",
+                "slug": "kaur-gm070102"
+              },
+              "code": {
+                "id": "GM070102",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0702",
-        "name": {
-          "local": "Niani",
-          "en": "Niani",
-          "slug": "niani-gm0702"
+          ]
         },
-        "code": {
+        {
           "id": "GM0702",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM070201",
-            "name": {
-              "local": "Nyanga",
-              "en": "Nyanga",
-              "slug": "nyanga-gm070201"
-            },
-            "code": {
+          "name": {
+            "local": "Niani",
+            "en": "Niani",
+            "slug": "niani-gm0702"
+          },
+          "code": {
+            "id": "GM0702",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM070201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM070202",
-            "name": {
-              "local": "Kuntaur",
-              "en": "Kuntaur",
-              "slug": "kuntaur-gm070202"
+              "name": {
+                "local": "Nyanga",
+                "en": "Nyanga",
+                "slug": "nyanga-gm070201"
+              },
+              "code": {
+                "id": "GM070201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM070202",
-              "iso": null
+              "name": {
+                "local": "Kuntaur",
+                "en": "Kuntaur",
+                "slug": "kuntaur-gm070202"
+              },
+              "code": {
+                "id": "GM070202",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0703",
-        "name": {
-          "local": "Nianija",
-          "en": "Nianija",
-          "slug": "nianija-gm0703"
+          ]
         },
-        "code": {
+        {
           "id": "GM0703",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM070301",
-            "name": {
-              "local": "Chamen",
-              "en": "Chamen",
-              "slug": "chamen-gm070301"
-            },
-            "code": {
+          "name": {
+            "local": "Nianija",
+            "en": "Nianija",
+            "slug": "nianija-gm0703"
+          },
+          "code": {
+            "id": "GM0703",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM070301",
-              "iso": null
+              "name": {
+                "local": "Chamen",
+                "en": "Chamen",
+                "slug": "chamen-gm070301"
+              },
+              "code": {
+                "id": "GM070301",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0704",
-        "name": {
-          "local": "Sami",
-          "en": "Sami",
-          "slug": "sami-gm0704"
+          ]
         },
-        "code": {
+        {
           "id": "GM0704",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM070401",
-            "name": {
-              "local": "Banni",
-              "en": "Banni",
-              "slug": "banni-gm070401"
-            },
-            "code": {
+          "name": {
+            "local": "Sami",
+            "en": "Sami",
+            "slug": "sami-gm0704"
+          },
+          "code": {
+            "id": "GM0704",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM070401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM070402",
-            "name": {
-              "local": "Karantaba",
-              "en": "Karantaba",
-              "slug": "karantaba-gm070402"
+              "name": {
+                "local": "Banni",
+                "en": "Banni",
+                "slug": "banni-gm070401"
+              },
+              "code": {
+                "id": "GM070401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM070402",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM070403",
-            "name": {
-              "local": "Pachonki",
-              "en": "Pachonki",
-              "slug": "pachonki-gm070403"
+              "name": {
+                "local": "Karantaba",
+                "en": "Karantaba",
+                "slug": "karantaba-gm070402"
+              },
+              "code": {
+                "id": "GM070402",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM070403",
-              "iso": null
+              "name": {
+                "local": "Pachonki",
+                "en": "Pachonki",
+                "slug": "pachonki-gm070403"
+              },
+              "code": {
+                "id": "GM070403",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0705",
-        "name": {
-          "local": "Upper Saloum",
-          "en": "Upper Saloum",
-          "slug": "upper-saloum-gm0705"
+          ]
         },
-        "code": {
+        {
           "id": "GM0705",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM070501",
-            "name": {
-              "local": "Panchang",
-              "en": "Panchang",
-              "slug": "panchang-gm070501"
-            },
-            "code": {
+          "name": {
+            "local": "Upper Saloum",
+            "en": "Upper Saloum",
+            "slug": "upper-saloum-gm0705"
+          },
+          "code": {
+            "id": "GM0705",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM070501",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM070502",
-            "name": {
-              "local": "Njaw",
-              "en": "Njaw",
-              "slug": "njaw-gm070502"
+              "name": {
+                "local": "Panchang",
+                "en": "Panchang",
+                "slug": "panchang-gm070501"
+              },
+              "code": {
+                "id": "GM070501",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM070502",
-              "iso": null
+              "name": {
+                "local": "Njaw",
+                "en": "Njaw",
+                "slug": "njaw-gm070502"
+              },
+              "code": {
+                "id": "GM070502",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM04",
-    "name": {
-      "local": "Central River South",
-      "en": "Central River South",
-      "slug": "central-river-south-gm04"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM04",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0401",
-        "name": {
-          "local": "Lower Fuladu West",
-          "en": "Lower Fuladu West",
-          "slug": "lower-fuladu-west-gm0401"
-        },
-        "code": {
+      "name": {
+        "local": "Central River South",
+        "en": "Central River South",
+        "slug": "central-river-south-gm04"
+      },
+      "code": {
+        "id": "GM04",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0401",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM040101",
-            "name": {
-              "local": "Brikamaba",
-              "en": "Brikamaba",
-              "slug": "brikamaba-gm040101"
-            },
-            "code": {
+          "name": {
+            "local": "Lower Fuladu West",
+            "en": "Lower Fuladu West",
+            "slug": "lower-fuladu-west-gm0401"
+          },
+          "code": {
+            "id": "GM0401",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM040101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM040102",
-            "name": {
-              "local": "Fulabantang",
-              "en": "Fulabantang",
-              "slug": "fulabantang-gm040102"
+              "name": {
+                "local": "Brikamaba",
+                "en": "Brikamaba",
+                "slug": "brikamaba-gm040101"
+              },
+              "code": {
+                "id": "GM040101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM040102",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM040103",
-            "name": {
-              "local": "Kerewan",
-              "en": "Kerewan",
-              "slug": "kerewan-gm040103"
+              "name": {
+                "local": "Fulabantang",
+                "en": "Fulabantang",
+                "slug": "fulabantang-gm040102"
+              },
+              "code": {
+                "id": "GM040102",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM040103",
-              "iso": null
+              "name": {
+                "local": "Kerewan",
+                "en": "Kerewan",
+                "slug": "kerewan-gm040103"
+              },
+              "code": {
+                "id": "GM040103",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0402",
-        "name": {
-          "local": "Janjanbureh",
-          "en": "Janjanbureh",
-          "slug": "janjanbureh-gm0402"
+          ]
         },
-        "code": {
+        {
           "id": "GM0402",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM040201",
-            "name": {
-              "local": "MacCarthy",
-              "en": "MacCarthy",
-              "slug": "maccarthy-gm040201"
-            },
-            "code": {
+          "name": {
+            "local": "Janjanbureh",
+            "en": "Janjanbureh",
+            "slug": "janjanbureh-gm0402"
+          },
+          "code": {
+            "id": "GM0402",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM040201",
-              "iso": null
+              "name": {
+                "local": "MacCarthy",
+                "en": "MacCarthy",
+                "slug": "maccarthy-gm040201"
+              },
+              "code": {
+                "id": "GM040201",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0403",
-        "name": {
-          "local": "Niamina Dankunku",
-          "en": "Niamina Dankunku",
-          "slug": "niamina-dankunku-gm0403"
+          ]
         },
-        "code": {
+        {
           "id": "GM0403",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM040301",
-            "name": {
-              "local": "Dankunku",
-              "en": "Dankunku",
-              "slug": "dankunku-gm040301"
-            },
-            "code": {
+          "name": {
+            "local": "Niamina Dankunku",
+            "en": "Niamina Dankunku",
+            "slug": "niamina-dankunku-gm0403"
+          },
+          "code": {
+            "id": "GM0403",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM040301",
-              "iso": null
+              "name": {
+                "local": "Dankunku",
+                "en": "Dankunku",
+                "slug": "dankunku-gm040301"
+              },
+              "code": {
+                "id": "GM040301",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0404",
-        "name": {
-          "local": "Niamina East",
-          "en": "Niamina East",
-          "slug": "niamina-east-gm0404"
+          ]
         },
-        "code": {
+        {
           "id": "GM0404",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM040401",
-            "name": {
-              "local": "Jarreng",
-              "en": "Jarreng",
-              "slug": "jarreng-gm040401"
-            },
-            "code": {
+          "name": {
+            "local": "Niamina East",
+            "en": "Niamina East",
+            "slug": "niamina-east-gm0404"
+          },
+          "code": {
+            "id": "GM0404",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM040401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM040402",
-            "name": {
-              "local": "Kudang",
-              "en": "Kudang",
-              "slug": "kudang-gm040402"
+              "name": {
+                "local": "Jarreng",
+                "en": "Jarreng",
+                "slug": "jarreng-gm040401"
+              },
+              "code": {
+                "id": "GM040401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM040402",
-              "iso": null
+              "name": {
+                "local": "Kudang",
+                "en": "Kudang",
+                "slug": "kudang-gm040402"
+              },
+              "code": {
+                "id": "GM040402",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0405",
-        "name": {
-          "local": "Niamina West",
-          "en": "Niamina West",
-          "slug": "niamina-west-gm0405"
+          ]
         },
-        "code": {
+        {
           "id": "GM0405",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM040501",
-            "name": {
-              "local": "Katamina",
-              "en": "Katamina",
-              "slug": "katamina-gm040501"
-            },
-            "code": {
+          "name": {
+            "local": "Niamina West",
+            "en": "Niamina West",
+            "slug": "niamina-west-gm0405"
+          },
+          "code": {
+            "id": "GM0405",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM040501",
-              "iso": null
+              "name": {
+                "local": "Katamina",
+                "en": "Katamina",
+                "slug": "katamina-gm040501"
+              },
+              "code": {
+                "id": "GM040501",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0406",
-        "name": {
-          "local": "Upper Fuladu West",
-          "en": "Upper Fuladu West",
-          "slug": "upper-fuladu-west-gm0406"
+          ]
         },
-        "code": {
+        {
           "id": "GM0406",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM040601",
-            "name": {
-              "local": "Bansang",
-              "en": "Bansang",
-              "slug": "bansang-gm040601"
-            },
-            "code": {
+          "name": {
+            "local": "Upper Fuladu West",
+            "en": "Upper Fuladu West",
+            "slug": "upper-fuladu-west-gm0406"
+          },
+          "code": {
+            "id": "GM0406",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM040601",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM040602",
-            "name": {
-              "local": "Daru",
-              "en": "Daru",
-              "slug": "daru-gm040602"
+              "name": {
+                "local": "Bansang",
+                "en": "Bansang",
+                "slug": "bansang-gm040601"
+              },
+              "code": {
+                "id": "GM040601",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM040602",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM040603",
-            "name": {
-              "local": "Galleh",
-              "en": "Galleh",
-              "slug": "galleh-gm040603"
+              "name": {
+                "local": "Daru",
+                "en": "Daru",
+                "slug": "daru-gm040602"
+              },
+              "code": {
+                "id": "GM040602",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM040603",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM040604",
-            "name": {
-              "local": "Sare Soffie",
-              "en": "Sare Soffie",
-              "slug": "sare-soffie-gm040604"
+              "name": {
+                "local": "Galleh",
+                "en": "Galleh",
+                "slug": "galleh-gm040603"
+              },
+              "code": {
+                "id": "GM040603",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM040604",
-              "iso": null
+              "name": {
+                "local": "Sare Soffie",
+                "en": "Sare Soffie",
+                "slug": "sare-soffie-gm040604"
+              },
+              "code": {
+                "id": "GM040604",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM05",
-    "name": {
-      "local": "Kanifing Municipal Council",
-      "en": "Kanifing Municipal Council",
-      "slug": "kanifing-municipal-council-gm05"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM05",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0501",
-        "name": {
-          "local": "Bakau",
-          "en": "Bakau",
-          "slug": "bakau-gm0501"
-        },
-        "code": {
+      "name": {
+        "local": "Kanifing Municipal Council",
+        "en": "Kanifing Municipal Council",
+        "slug": "kanifing-municipal-council-gm05"
+      },
+      "code": {
+        "id": "GM05",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0501",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM050101",
-            "name": {
-              "local": "Bakau New Town and Fajara",
-              "en": "Bakau New Town and Fajara",
-              "slug": "bakau-new-town-and-fajara-gm050101"
-            },
-            "code": {
+          "name": {
+            "local": "Bakau",
+            "en": "Bakau",
+            "slug": "bakau-gm0501"
+          },
+          "code": {
+            "id": "GM0501",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM050101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050102",
-            "name": {
-              "local": "Old Bakau and Cape Point",
-              "en": "Old Bakau and Cape Point",
-              "slug": "old-bakau-and-cape-point-gm050102"
+              "name": {
+                "local": "Bakau New Town and Fajara",
+                "en": "Bakau New Town and Fajara",
+                "slug": "bakau-new-town-and-fajara-gm050101"
+              },
+              "code": {
+                "id": "GM050101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050102",
-              "iso": null
+              "name": {
+                "local": "Old Bakau and Cape Point",
+                "en": "Old Bakau and Cape Point",
+                "slug": "old-bakau-and-cape-point-gm050102"
+              },
+              "code": {
+                "id": "GM050102",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0502",
-        "name": {
-          "local": "Jeshwang",
-          "en": "Jeshwang",
-          "slug": "jeshwang-gm0502"
+          ]
         },
-        "code": {
+        {
           "id": "GM0502",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM050201",
-            "name": {
-              "local": "Kanifing",
-              "en": "Kanifing",
-              "slug": "kanifing-gm050201"
-            },
-            "code": {
+          "name": {
+            "local": "Jeshwang",
+            "en": "Jeshwang",
+            "slug": "jeshwang-gm0502"
+          },
+          "code": {
+            "id": "GM0502",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM050201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050202",
-            "name": {
-              "local": "New Jeshwang and Ebo Town",
-              "en": "New Jeshwang and Ebo Town",
-              "slug": "new-jeshwang-and-ebo-town-gm050202"
+              "name": {
+                "local": "Kanifing",
+                "en": "Kanifing",
+                "slug": "kanifing-gm050201"
+              },
+              "code": {
+                "id": "GM050201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050202",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050203",
-            "name": {
-              "local": "Old Jeshwang",
-              "en": "Old Jeshwang",
-              "slug": "old-jeshwang-gm050203"
+              "name": {
+                "local": "New Jeshwang and Ebo Town",
+                "en": "New Jeshwang and Ebo Town",
+                "slug": "new-jeshwang-and-ebo-town-gm050202"
+              },
+              "code": {
+                "id": "GM050202",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050203",
-              "iso": null
+              "name": {
+                "local": "Old Jeshwang",
+                "en": "Old Jeshwang",
+                "slug": "old-jeshwang-gm050203"
+              },
+              "code": {
+                "id": "GM050203",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0503",
-        "name": {
-          "local": "Mangrove",
-          "en": "Mangrove",
-          "slug": "mangrove-gm0503"
+          ]
         },
-        "code": {
+        {
           "id": "GM0503",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM050301",
-            "name": {
-              "local": "Mangrove",
-              "en": "Mangrove",
-              "slug": "mangrove-gm050301"
-            },
-            "code": {
+          "name": {
+            "local": "Mangrove",
+            "en": "Mangrove",
+            "slug": "mangrove-gm0503"
+          },
+          "code": {
+            "id": "GM0503",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM050301",
-              "iso": null
+              "name": {
+                "local": "Mangrove",
+                "en": "Mangrove",
+                "slug": "mangrove-gm050301"
+              },
+              "code": {
+                "id": "GM050301",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0504",
-        "name": {
-          "local": "Sere Kunda Central",
-          "en": "Sere Kunda Central",
-          "slug": "sere-kunda-central-gm0504"
+          ]
         },
-        "code": {
+        {
           "id": "GM0504",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM050401",
-            "name": {
-              "local": "Bundung Borehole and Bantaba",
-              "en": "Bundung Borehole and Bantaba",
-              "slug": "bundung-borehole-and-bantaba-gm050401"
-            },
-            "code": {
+          "name": {
+            "local": "Sere Kunda Central",
+            "en": "Sere Kunda Central",
+            "slug": "sere-kunda-central-gm0504"
+          },
+          "code": {
+            "id": "GM0504",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM050401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050402",
-            "name": {
-              "local": "Bundung Six Junction Muritani",
-              "en": "Bundung Six Junction Muritani",
-              "slug": "bundung-six-junction-muritani-gm050402"
+              "name": {
+                "local": "Bundung Borehole and Bantaba",
+                "en": "Bundung Borehole and Bantaba",
+                "slug": "bundung-borehole-and-bantaba-gm050401"
+              },
+              "code": {
+                "id": "GM050401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050402",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050403",
-            "name": {
-              "local": "Sere Kunda and London Corner",
-              "en": "Sere Kunda and London Corner",
-              "slug": "sere-kunda-and-london-corner-gm050403"
+              "name": {
+                "local": "Bundung Six Junction Muritani",
+                "en": "Bundung Six Junction Muritani",
+                "slug": "bundung-six-junction-muritani-gm050402"
+              },
+              "code": {
+                "id": "GM050402",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050403",
-              "iso": null
+              "name": {
+                "local": "Sere Kunda and London Corner",
+                "en": "Sere Kunda and London Corner",
+                "slug": "sere-kunda-and-london-corner-gm050403"
+              },
+              "code": {
+                "id": "GM050403",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0505",
-        "name": {
-          "local": "Sere Kunda East",
-          "en": "Sere Kunda East",
-          "slug": "sere-kunda-east-gm0505"
+          ]
         },
-        "code": {
+        {
           "id": "GM0505",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM050501",
-            "name": {
-              "local": "Abuko",
-              "en": "Abuko",
-              "slug": "abuko-gm050501"
-            },
-            "code": {
+          "name": {
+            "local": "Sere Kunda East",
+            "en": "Sere Kunda East",
+            "slug": "sere-kunda-east-gm0505"
+          },
+          "code": {
+            "id": "GM0505",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM050501",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050502",
-            "name": {
-              "local": "Faji Kunda",
-              "en": "Faji Kunda",
-              "slug": "faji-kunda-gm050502"
+              "name": {
+                "local": "Abuko",
+                "en": "Abuko",
+                "slug": "abuko-gm050501"
+              },
+              "code": {
+                "id": "GM050501",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050502",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050503",
-            "name": {
-              "local": "Latri Kunda Sabiji",
-              "en": "Latri Kunda Sabiji",
-              "slug": "latri-kunda-sabiji-gm050503"
+              "name": {
+                "local": "Faji Kunda",
+                "en": "Faji Kunda",
+                "slug": "faji-kunda-gm050502"
+              },
+              "code": {
+                "id": "GM050502",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050503",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050504",
-            "name": {
-              "local": "Talinding",
-              "en": "Talinding",
-              "slug": "talinding-gm050504"
+              "name": {
+                "local": "Latri Kunda Sabiji",
+                "en": "Latri Kunda Sabiji",
+                "slug": "latri-kunda-sabiji-gm050503"
+              },
+              "code": {
+                "id": "GM050503",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050504",
-              "iso": null
+              "name": {
+                "local": "Talinding",
+                "en": "Talinding",
+                "slug": "talinding-gm050504"
+              },
+              "code": {
+                "id": "GM050504",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0506",
-        "name": {
-          "local": "Sere Kunda West",
-          "en": "Sere Kunda West",
-          "slug": "sere-kunda-west-gm0506"
+          ]
         },
-        "code": {
+        {
           "id": "GM0506",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM050601",
-            "name": {
-              "local": "Bakoteh",
-              "en": "Bakoteh",
-              "slug": "bakoteh-gm050601"
-            },
-            "code": {
+          "name": {
+            "local": "Sere Kunda West",
+            "en": "Sere Kunda West",
+            "slug": "sere-kunda-west-gm0506"
+          },
+          "code": {
+            "id": "GM0506",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM050601",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050602",
-            "name": {
-              "local": "Dippa Kunda",
-              "en": "Dippa Kunda",
-              "slug": "dippa-kunda-gm050602"
+              "name": {
+                "local": "Bakoteh",
+                "en": "Bakoteh",
+                "slug": "bakoteh-gm050601"
+              },
+              "code": {
+                "id": "GM050601",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050602",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050603",
-            "name": {
-              "local": "Kololi",
-              "en": "Kololi",
-              "slug": "kololi-gm050603"
+              "name": {
+                "local": "Dippa Kunda",
+                "en": "Dippa Kunda",
+                "slug": "dippa-kunda-gm050602"
+              },
+              "code": {
+                "id": "GM050602",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050603",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050604",
-            "name": {
-              "local": "Latri Kunda Yiringanya",
-              "en": "Latri Kunda Yiringanya",
-              "slug": "latri-kunda-yiringanya-gm050604"
+              "name": {
+                "local": "Kololi",
+                "en": "Kololi",
+                "slug": "kololi-gm050603"
+              },
+              "code": {
+                "id": "GM050603",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050604",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM050605",
-            "name": {
-              "local": "Manjai Kunda",
-              "en": "Manjai Kunda",
-              "slug": "manjai-kunda-gm050605"
+              "name": {
+                "local": "Latri Kunda Yiringanya",
+                "en": "Latri Kunda Yiringanya",
+                "slug": "latri-kunda-yiringanya-gm050604"
+              },
+              "code": {
+                "id": "GM050604",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM050605",
-              "iso": null
+              "name": {
+                "local": "Manjai Kunda",
+                "en": "Manjai Kunda",
+                "slug": "manjai-kunda-gm050605"
+              },
+              "code": {
+                "id": "GM050605",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM08",
-    "name": {
-      "local": "Lower River",
-      "en": "Lower River",
-      "slug": "lower-river-gm08"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM08",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0801",
-        "name": {
-          "local": "Jarra Central",
-          "en": "Jarra Central",
-          "slug": "jarra-central-gm0801"
-        },
-        "code": {
+      "name": {
+        "local": "Lower River",
+        "en": "Lower River",
+        "slug": "lower-river-gm08"
+      },
+      "code": {
+        "id": "GM08",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0801",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM080101",
-            "name": {
-              "local": "Buiba",
-              "en": "Buiba",
-              "slug": "buiba-gm080101"
-            },
-            "code": {
+          "name": {
+            "local": "Jarra Central",
+            "en": "Jarra Central",
+            "slug": "jarra-central-gm0801"
+          },
+          "code": {
+            "id": "GM0801",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM080101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM080102",
-            "name": {
-              "local": "Jalembereh",
-              "en": "Jalembereh",
-              "slug": "jalembereh-gm080102"
+              "name": {
+                "local": "Buiba",
+                "en": "Buiba",
+                "slug": "buiba-gm080101"
+              },
+              "code": {
+                "id": "GM080101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM080102",
-              "iso": null
+              "name": {
+                "local": "Jalembereh",
+                "en": "Jalembereh",
+                "slug": "jalembereh-gm080102"
+              },
+              "code": {
+                "id": "GM080102",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0802",
-        "name": {
-          "local": "Jarra East",
-          "en": "Jarra East",
-          "slug": "jarra-east-gm0802"
+          ]
         },
-        "code": {
+        {
           "id": "GM0802",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM080201",
-            "name": {
-              "local": "Bureng",
-              "en": "Bureng",
-              "slug": "bureng-gm080201"
-            },
-            "code": {
+          "name": {
+            "local": "Jarra East",
+            "en": "Jarra East",
+            "slug": "jarra-east-gm0802"
+          },
+          "code": {
+            "id": "GM0802",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM080201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM080202",
-            "name": {
-              "local": "Pakaliba",
-              "en": "Pakaliba",
-              "slug": "pakaliba-gm080202"
+              "name": {
+                "local": "Bureng",
+                "en": "Bureng",
+                "slug": "bureng-gm080201"
+              },
+              "code": {
+                "id": "GM080201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM080202",
-              "iso": null
+              "name": {
+                "local": "Pakaliba",
+                "en": "Pakaliba",
+                "slug": "pakaliba-gm080202"
+              },
+              "code": {
+                "id": "GM080202",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0803",
-        "name": {
-          "local": "Jarra West",
-          "en": "Jarra West",
-          "slug": "jarra-west-gm0803"
+          ]
         },
-        "code": {
+        {
           "id": "GM0803",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM080301",
-            "name": {
-              "local": "Gikoko",
-              "en": "Gikoko",
-              "slug": "gikoko-gm080301"
-            },
-            "code": {
+          "name": {
+            "local": "Jarra West",
+            "en": "Jarra West",
+            "slug": "jarra-west-gm0803"
+          },
+          "code": {
+            "id": "GM0803",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM080301",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM080302",
-            "name": {
-              "local": "Jaduma",
-              "en": "Jaduma",
-              "slug": "jaduma-gm080302"
+              "name": {
+                "local": "Gikoko",
+                "en": "Gikoko",
+                "slug": "gikoko-gm080301"
+              },
+              "code": {
+                "id": "GM080301",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM080302",
-              "iso": null
+              "name": {
+                "local": "Jaduma",
+                "en": "Jaduma",
+                "slug": "jaduma-gm080302"
+              },
+              "code": {
+                "id": "GM080302",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0804",
-        "name": {
-          "local": "Kiang Central",
-          "en": "Kiang Central",
-          "slug": "kiang-central-gm0804"
+          ]
         },
-        "code": {
+        {
           "id": "GM0804",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM080401",
-            "name": {
-              "local": "Jirroff",
-              "en": "Jirroff",
-              "slug": "jirroff-gm080401"
-            },
-            "code": {
+          "name": {
+            "local": "Kiang Central",
+            "en": "Kiang Central",
+            "slug": "kiang-central-gm0804"
+          },
+          "code": {
+            "id": "GM0804",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM080401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM080402",
-            "name": {
-              "local": "Kwinella",
-              "en": "Kwinella",
-              "slug": "kwinella-gm080402"
+              "name": {
+                "local": "Jirroff",
+                "en": "Jirroff",
+                "slug": "jirroff-gm080401"
+              },
+              "code": {
+                "id": "GM080401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM080402",
-              "iso": null
+              "name": {
+                "local": "Kwinella",
+                "en": "Kwinella",
+                "slug": "kwinella-gm080402"
+              },
+              "code": {
+                "id": "GM080402",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0805",
-        "name": {
-          "local": "Kiang East",
-          "en": "Kiang East",
-          "slug": "kiang-east-gm0805"
+          ]
         },
-        "code": {
+        {
           "id": "GM0805",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM080501",
-            "name": {
-              "local": "Kaiaf",
-              "en": "Kaiaf",
-              "slug": "kaiaf-gm080501"
-            },
-            "code": {
+          "name": {
+            "local": "Kiang East",
+            "en": "Kiang East",
+            "slug": "kiang-east-gm0805"
+          },
+          "code": {
+            "id": "GM0805",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM080501",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM080502",
-            "name": {
-              "local": "Massembeh",
-              "en": "Massembeh",
-              "slug": "massembeh-gm080502"
+              "name": {
+                "local": "Kaiaf",
+                "en": "Kaiaf",
+                "slug": "kaiaf-gm080501"
+              },
+              "code": {
+                "id": "GM080501",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM080502",
-              "iso": null
+              "name": {
+                "local": "Massembeh",
+                "en": "Massembeh",
+                "slug": "massembeh-gm080502"
+              },
+              "code": {
+                "id": "GM080502",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0806",
-        "name": {
-          "local": "Kiang West",
-          "en": "Kiang West",
-          "slug": "kiang-west-gm0806"
+          ]
         },
-        "code": {
+        {
           "id": "GM0806",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM080601",
-            "name": {
-              "local": "Kiang Banta",
-              "en": "Kiang Banta",
-              "slug": "kiang-banta-gm080601"
-            },
-            "code": {
+          "name": {
+            "local": "Kiang West",
+            "en": "Kiang West",
+            "slug": "kiang-west-gm0806"
+          },
+          "code": {
+            "id": "GM0806",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM080601",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM080602",
-            "name": {
-              "local": "Kiang Julafarr",
-              "en": "Kiang Julafarr",
-              "slug": "kiang-julafarr-gm080602"
+              "name": {
+                "local": "Kiang Banta",
+                "en": "Kiang Banta",
+                "slug": "kiang-banta-gm080601"
+              },
+              "code": {
+                "id": "GM080601",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM080602",
-              "iso": null
+              "name": {
+                "local": "Kiang Julafarr",
+                "en": "Kiang Julafarr",
+                "slug": "kiang-julafarr-gm080602"
+              },
+              "code": {
+                "id": "GM080602",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM06",
-    "name": {
-      "local": "North Bank",
-      "en": "North Bank",
-      "slug": "north-bank-gm06"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM06",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0601",
-        "name": {
-          "local": "Central Baddibu",
-          "en": "Central Baddibu",
-          "slug": "central-baddibu-gm0601"
-        },
-        "code": {
+      "name": {
+        "local": "North Bank",
+        "en": "North Bank",
+        "slug": "north-bank-gm06"
+      },
+      "code": {
+        "id": "GM06",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0601",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060101",
-            "name": {
-              "local": "Njaba Kunda",
-              "en": "Njaba Kunda",
-              "slug": "njaba-kunda-gm060101"
-            },
-            "code": {
+          "name": {
+            "local": "Central Baddibu",
+            "en": "Central Baddibu",
+            "slug": "central-baddibu-gm0601"
+          },
+          "code": {
+            "id": "GM0601",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060102",
-            "name": {
-              "local": "Sallikene",
-              "en": "Sallikene",
-              "slug": "sallikene-gm060102"
+              "name": {
+                "local": "Njaba Kunda",
+                "en": "Njaba Kunda",
+                "slug": "njaba-kunda-gm060101"
+              },
+              "code": {
+                "id": "GM060101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060102",
-              "iso": null
+              "name": {
+                "local": "Sallikene",
+                "en": "Sallikene",
+                "slug": "sallikene-gm060102"
+              },
+              "code": {
+                "id": "GM060102",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0602",
-        "name": {
-          "local": "Jokadu",
-          "en": "Jokadu",
-          "slug": "jokadu-gm0602"
+          ]
         },
-        "code": {
+        {
           "id": "GM0602",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060201",
-            "name": {
-              "local": "Darsilami",
-              "en": "Darsilami",
-              "slug": "darsilami-gm060201"
-            },
-            "code": {
+          "name": {
+            "local": "Jokadu",
+            "en": "Jokadu",
+            "slug": "jokadu-gm0602"
+          },
+          "code": {
+            "id": "GM0602",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060202",
-            "name": {
-              "local": "Kerewan 2",
-              "en": "Kerewan 2",
-              "slug": "kerewan-2-gm060202"
+              "name": {
+                "local": "Darsilami",
+                "en": "Darsilami",
+                "slug": "darsilami-gm060201"
+              },
+              "code": {
+                "id": "GM060201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060202",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060203",
-            "name": {
-              "local": "Kerr Jarga",
-              "en": "Kerr Jarga",
-              "slug": "kerr-jarga-gm060203"
+              "name": {
+                "local": "Kerewan 2",
+                "en": "Kerewan 2",
+                "slug": "kerewan-2-gm060202"
+              },
+              "code": {
+                "id": "GM060202",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060203",
-              "iso": null
+              "name": {
+                "local": "Kerr Jarga",
+                "en": "Kerr Jarga",
+                "slug": "kerr-jarga-gm060203"
+              },
+              "code": {
+                "id": "GM060203",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0603",
-        "name": {
-          "local": "Lower Baddibu",
-          "en": "Lower Baddibu",
-          "slug": "lower-baddibu-gm0603"
+          ]
         },
-        "code": {
+        {
           "id": "GM0603",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060301",
-            "name": {
-              "local": "Saaba",
-              "en": "Saaba",
-              "slug": "saaba-gm060301"
-            },
-            "code": {
+          "name": {
+            "local": "Lower Baddibu",
+            "en": "Lower Baddibu",
+            "slug": "lower-baddibu-gm0603"
+          },
+          "code": {
+            "id": "GM0603",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060301",
-              "iso": null
+              "name": {
+                "local": "Saaba",
+                "en": "Saaba",
+                "slug": "saaba-gm060301"
+              },
+              "code": {
+                "id": "GM060301",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0604",
-        "name": {
-          "local": "Lower Niumi",
-          "en": "Lower Niumi",
-          "slug": "lower-niumi-gm0604"
+          ]
         },
-        "code": {
+        {
           "id": "GM0604",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060401",
-            "name": {
-              "local": "Essau",
-              "en": "Essau",
-              "slug": "essau-gm060401"
-            },
-            "code": {
+          "name": {
+            "local": "Lower Niumi",
+            "en": "Lower Niumi",
+            "slug": "lower-niumi-gm0604"
+          },
+          "code": {
+            "id": "GM0604",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060402",
-            "name": {
-              "local": "Medina Sering Mass",
-              "en": "Medina Sering Mass",
-              "slug": "medina-sering-mass-gm060402"
+              "name": {
+                "local": "Essau",
+                "en": "Essau",
+                "slug": "essau-gm060401"
+              },
+              "code": {
+                "id": "GM060401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060402",
-              "iso": null
+              "name": {
+                "local": "Medina Sering Mass",
+                "en": "Medina Sering Mass",
+                "slug": "medina-sering-mass-gm060402"
+              },
+              "code": {
+                "id": "GM060402",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0605",
-        "name": {
-          "local": "Illiassa",
-          "en": "Illiassa",
-          "slug": "illiassa-gm0605"
+          ]
         },
-        "code": {
+        {
           "id": "GM0605",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060501",
-            "name": {
-              "local": "Farafenni",
-              "en": "Farafenni",
-              "slug": "farafenni-gm060501"
-            },
-            "code": {
+          "name": {
+            "local": "Illiassa",
+            "en": "Illiassa",
+            "slug": "illiassa-gm0605"
+          },
+          "code": {
+            "id": "GM0605",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060501",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060502",
-            "name": {
-              "local": "Katchang",
-              "en": "Katchang",
-              "slug": "katchang-gm060502"
+              "name": {
+                "local": "Farafenni",
+                "en": "Farafenni",
+                "slug": "farafenni-gm060501"
+              },
+              "code": {
+                "id": "GM060501",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060502",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060503",
-            "name": {
-              "local": "Kubandarr",
-              "en": "Kubandarr",
-              "slug": "kubandarr-gm060503"
+              "name": {
+                "local": "Katchang",
+                "en": "Katchang",
+                "slug": "katchang-gm060502"
+              },
+              "code": {
+                "id": "GM060502",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060503",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060504",
-            "name": {
-              "local": "No Kunda",
-              "en": "No Kunda",
-              "slug": "no-kunda-gm060504"
+              "name": {
+                "local": "Kubandarr",
+                "en": "Kubandarr",
+                "slug": "kubandarr-gm060503"
+              },
+              "code": {
+                "id": "GM060503",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060504",
-              "iso": null
+              "name": {
+                "local": "No Kunda",
+                "en": "No Kunda",
+                "slug": "no-kunda-gm060504"
+              },
+              "code": {
+                "id": "GM060504",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0606",
-        "name": {
-          "local": "Upper Niumi",
-          "en": "Upper Niumi",
-          "slug": "upper-niumi-gm0606"
+          ]
         },
-        "code": {
+        {
           "id": "GM0606",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060601",
-            "name": {
-              "local": "Pakau",
-              "en": "Pakau",
-              "slug": "pakau-gm060601"
-            },
-            "code": {
+          "name": {
+            "local": "Upper Niumi",
+            "en": "Upper Niumi",
+            "slug": "upper-niumi-gm0606"
+          },
+          "code": {
+            "id": "GM0606",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060601",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060602",
-            "name": {
-              "local": "Prince",
-              "en": "Prince",
-              "slug": "prince-gm060602"
+              "name": {
+                "local": "Pakau",
+                "en": "Pakau",
+                "slug": "pakau-gm060601"
+              },
+              "code": {
+                "id": "GM060601",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060602",
-              "iso": null
+              "name": {
+                "local": "Prince",
+                "en": "Prince",
+                "slug": "prince-gm060602"
+              },
+              "code": {
+                "id": "GM060602",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0607",
-        "name": {
-          "local": "Sabach - Sanjal",
-          "en": "Sabach - Sanjal",
-          "slug": "sabach-sanjal-gm0607"
+          ]
         },
-        "code": {
+        {
           "id": "GM0607",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM060701",
-            "name": {
-              "local": "Sabach",
-              "en": "Sabach",
-              "slug": "sabach-gm060701"
-            },
-            "code": {
+          "name": {
+            "local": "Sabach - Sanjal",
+            "en": "Sabach - Sanjal",
+            "slug": "sabach-sanjal-gm0607"
+          },
+          "code": {
+            "id": "GM0607",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM060701",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM060702",
-            "name": {
-              "local": "Sanjal",
-              "en": "Sanjal",
-              "slug": "sanjal-gm060702"
+              "name": {
+                "local": "Sabach",
+                "en": "Sabach",
+                "slug": "sabach-gm060701"
+              },
+              "code": {
+                "id": "GM060701",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM060702",
-              "iso": null
+              "name": {
+                "local": "Sanjal",
+                "en": "Sanjal",
+                "slug": "sanjal-gm060702"
+              },
+              "code": {
+                "id": "GM060702",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM02",
-    "name": {
-      "local": "Upper River",
-      "en": "Upper River",
-      "slug": "upper-river-gm02"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM02",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0201",
-        "name": {
-          "local": "Basse",
-          "en": "Basse",
-          "slug": "basse-gm0201"
-        },
-        "code": {
+      "name": {
+        "local": "Upper River",
+        "en": "Upper River",
+        "slug": "upper-river-gm02"
+      },
+      "code": {
+        "id": "GM02",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0201",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020101",
-            "name": {
-              "local": "Basse",
-              "en": "Basse",
-              "slug": "basse-gm020101"
-            },
-            "code": {
+          "name": {
+            "local": "Basse",
+            "en": "Basse",
+            "slug": "basse-gm0201"
+          },
+          "code": {
+            "id": "GM0201",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020102",
-            "name": {
-              "local": "Sabi",
-              "en": "Sabi",
-              "slug": "sabi-gm020102"
+              "name": {
+                "local": "Basse",
+                "en": "Basse",
+                "slug": "basse-gm020101"
+              },
+              "code": {
+                "id": "GM020101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020102",
-              "iso": null
+              "name": {
+                "local": "Sabi",
+                "en": "Sabi",
+                "slug": "sabi-gm020102"
+              },
+              "code": {
+                "id": "GM020102",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0202",
-        "name": {
-          "local": "Kantora",
-          "en": "Kantora",
-          "slug": "kantora-gm0202"
+          ]
         },
-        "code": {
+        {
           "id": "GM0202",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020201",
-            "name": {
-              "local": "Garawol",
-              "en": "Garawol",
-              "slug": "garawol-gm020201"
-            },
-            "code": {
+          "name": {
+            "local": "Kantora",
+            "en": "Kantora",
+            "slug": "kantora-gm0202"
+          },
+          "code": {
+            "id": "GM0202",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020202",
-            "name": {
-              "local": "Koina",
-              "en": "Koina",
-              "slug": "koina-gm020202"
+              "name": {
+                "local": "Garawol",
+                "en": "Garawol",
+                "slug": "garawol-gm020201"
+              },
+              "code": {
+                "id": "GM020201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020202",
-              "iso": null
+              "name": {
+                "local": "Koina",
+                "en": "Koina",
+                "slug": "koina-gm020202"
+              },
+              "code": {
+                "id": "GM020202",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0203",
-        "name": {
-          "local": "Sandu",
-          "en": "Sandu",
-          "slug": "sandu-gm0203"
+          ]
         },
-        "code": {
+        {
           "id": "GM0203",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020301",
-            "name": {
-              "local": "Diabugu",
-              "en": "Diabugu",
-              "slug": "diabugu-gm020301"
-            },
-            "code": {
+          "name": {
+            "local": "Sandu",
+            "en": "Sandu",
+            "slug": "sandu-gm0203"
+          },
+          "code": {
+            "id": "GM0203",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020301",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020302",
-            "name": {
-              "local": "Misera",
-              "en": "Misera",
-              "slug": "misera-gm020302"
+              "name": {
+                "local": "Diabugu",
+                "en": "Diabugu",
+                "slug": "diabugu-gm020301"
+              },
+              "code": {
+                "id": "GM020301",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020302",
-              "iso": null
+              "name": {
+                "local": "Misera",
+                "en": "Misera",
+                "slug": "misera-gm020302"
+              },
+              "code": {
+                "id": "GM020302",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0204",
-        "name": {
-          "local": "Jimara",
-          "en": "Jimara",
-          "slug": "jimara-gm0204"
+          ]
         },
-        "code": {
+        {
           "id": "GM0204",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020401",
-            "name": {
-              "local": "Gambissara",
-              "en": "Gambissara",
-              "slug": "gambissara-gm020401"
-            },
-            "code": {
+          "name": {
+            "local": "Jimara",
+            "en": "Jimara",
+            "slug": "jimara-gm0204"
+          },
+          "code": {
+            "id": "GM0204",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020402",
-            "name": {
-              "local": "Julangel",
-              "en": "Julangel",
-              "slug": "julangel-gm020402"
+              "name": {
+                "local": "Gambissara",
+                "en": "Gambissara",
+                "slug": "gambissara-gm020401"
+              },
+              "code": {
+                "id": "GM020401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020402",
-              "iso": null
+              "name": {
+                "local": "Julangel",
+                "en": "Julangel",
+                "slug": "julangel-gm020402"
+              },
+              "code": {
+                "id": "GM020402",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0205",
-        "name": {
-          "local": "Tumana",
-          "en": "Tumana",
-          "slug": "tumana-gm0205"
+          ]
         },
-        "code": {
+        {
           "id": "GM0205",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020502",
-            "name": {
-              "local": "Dampha Kunda",
-              "en": "Dampha Kunda",
-              "slug": "dampha-kunda-gm020502"
-            },
-            "code": {
+          "name": {
+            "local": "Tumana",
+            "en": "Tumana",
+            "slug": "tumana-gm0205"
+          },
+          "code": {
+            "id": "GM0205",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020502",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020504",
-            "name": {
-              "local": "Kularr",
-              "en": "Kularr",
-              "slug": "kularr-gm020504"
+              "name": {
+                "local": "Dampha Kunda",
+                "en": "Dampha Kunda",
+                "slug": "dampha-kunda-gm020502"
+              },
+              "code": {
+                "id": "GM020502",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020504",
-              "iso": null
+              "name": {
+                "local": "Kularr",
+                "en": "Kularr",
+                "slug": "kularr-gm020504"
+              },
+              "code": {
+                "id": "GM020504",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0206",
-        "name": {
-          "local": "Wuli West",
-          "en": "Wuli West",
-          "slug": "wuli-west-gm0206"
+          ]
         },
-        "code": {
+        {
           "id": "GM0206",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020601",
-            "name": {
-              "local": "Sare Ngai",
-              "en": "Sare Ngai",
-              "slug": "sare-ngai-gm020601"
-            },
-            "code": {
+          "name": {
+            "local": "Wuli West",
+            "en": "Wuli West",
+            "slug": "wuli-west-gm0206"
+          },
+          "code": {
+            "id": "GM0206",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020601",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020602",
-            "name": {
-              "local": "Sutukonding",
-              "en": "Sutukonding",
-              "slug": "sutukonding-gm020602"
+              "name": {
+                "local": "Sare Ngai",
+                "en": "Sare Ngai",
+                "slug": "sare-ngai-gm020601"
+              },
+              "code": {
+                "id": "GM020601",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020602",
-              "iso": null
+              "name": {
+                "local": "Sutukonding",
+                "en": "Sutukonding",
+                "slug": "sutukonding-gm020602"
+              },
+              "code": {
+                "id": "GM020602",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0207",
-        "name": {
-          "local": "Wuli East",
-          "en": "Wuli East",
-          "slug": "wuli-east-gm0207"
+          ]
         },
-        "code": {
+        {
           "id": "GM0207",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM020701",
-            "name": {
-              "local": "Baja Kunda",
-              "en": "Baja Kunda",
-              "slug": "baja-kunda-gm020701"
-            },
-            "code": {
+          "name": {
+            "local": "Wuli East",
+            "en": "Wuli East",
+            "slug": "wuli-east-gm0207"
+          },
+          "code": {
+            "id": "GM0207",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM020701",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM020703",
-            "name": {
-              "local": "Foday Kunda",
-              "en": "Foday Kunda",
-              "slug": "foday-kunda-gm020703"
+              "name": {
+                "local": "Baja Kunda",
+                "en": "Baja Kunda",
+                "slug": "baja-kunda-gm020701"
+              },
+              "code": {
+                "id": "GM020701",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM020703",
-              "iso": null
+              "name": {
+                "local": "Foday Kunda",
+                "en": "Foday Kunda",
+                "slug": "foday-kunda-gm020703"
+              },
+              "code": {
+                "id": "GM020703",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "GM03",
-    "name": {
-      "local": "West Coast",
-      "en": "West Coast",
-      "slug": "west-coast-gm03"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "GM03",
-      "iso": null
-    },
-    "district": [
-      {
-        "id": "GM0301",
-        "name": {
-          "local": "Foni Bintang Karenai",
-          "en": "Foni Bintang Karenai",
-          "slug": "foni-bintang-karenai-gm0301"
-        },
-        "code": {
+      "name": {
+        "local": "West Coast",
+        "en": "West Coast",
+        "slug": "west-coast-gm03"
+      },
+      "code": {
+        "id": "GM03",
+        "iso": null
+      },
+      "district": [
+        {
           "id": "GM0301",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030101",
-            "name": {
-              "local": "Kusami",
-              "en": "Kusami",
-              "slug": "kusami-gm030101"
-            },
-            "code": {
+          "name": {
+            "local": "Foni Bintang Karenai",
+            "en": "Foni Bintang Karenai",
+            "slug": "foni-bintang-karenai-gm0301"
+          },
+          "code": {
+            "id": "GM0301",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030101",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030102",
-            "name": {
-              "local": "Sibanor",
-              "en": "Sibanor",
-              "slug": "sibanor-gm030102"
+              "name": {
+                "local": "Kusami",
+                "en": "Kusami",
+                "slug": "kusami-gm030101"
+              },
+              "code": {
+                "id": "GM030101",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030102",
-              "iso": null
+              "name": {
+                "local": "Sibanor",
+                "en": "Sibanor",
+                "slug": "sibanor-gm030102"
+              },
+              "code": {
+                "id": "GM030102",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0302",
-        "name": {
-          "local": "Foni Bondali",
-          "en": "Foni Bondali",
-          "slug": "foni-bondali-gm0302"
+          ]
         },
-        "code": {
+        {
           "id": "GM0302",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030201",
-            "name": {
-              "local": "Bantanjang",
-              "en": "Bantanjang",
-              "slug": "bantanjang-gm030201"
-            },
-            "code": {
+          "name": {
+            "local": "Foni Bondali",
+            "en": "Foni Bondali",
+            "slug": "foni-bondali-gm0302"
+          },
+          "code": {
+            "id": "GM0302",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030201",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030202",
-            "name": {
-              "local": "Mayork",
-              "en": "Mayork",
-              "slug": "mayork-gm030202"
+              "name": {
+                "local": "Bantanjang",
+                "en": "Bantanjang",
+                "slug": "bantanjang-gm030201"
+              },
+              "code": {
+                "id": "GM030201",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030202",
-              "iso": null
+              "name": {
+                "local": "Mayork",
+                "en": "Mayork",
+                "slug": "mayork-gm030202"
+              },
+              "code": {
+                "id": "GM030202",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0303",
-        "name": {
-          "local": "Foni Brefet",
-          "en": "Foni Brefet",
-          "slug": "foni-brefet-gm0303"
+          ]
         },
-        "code": {
+        {
           "id": "GM0303",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030301",
-            "name": {
-              "local": "Somita",
-              "en": "Somita",
-              "slug": "somita-gm030301"
-            },
-            "code": {
+          "name": {
+            "local": "Foni Brefet",
+            "en": "Foni Brefet",
+            "slug": "foni-brefet-gm0303"
+          },
+          "code": {
+            "id": "GM0303",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030301",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030302",
-            "name": {
-              "local": "Bulock",
-              "en": "Bulock",
-              "slug": "bulock-gm030302"
+              "name": {
+                "local": "Somita",
+                "en": "Somita",
+                "slug": "somita-gm030301"
+              },
+              "code": {
+                "id": "GM030301",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030302",
-              "iso": null
+              "name": {
+                "local": "Bulock",
+                "en": "Bulock",
+                "slug": "bulock-gm030302"
+              },
+              "code": {
+                "id": "GM030302",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0304",
-        "name": {
-          "local": "Foni Jarrol",
-          "en": "Foni Jarrol",
-          "slug": "foni-jarrol-gm0304"
+          ]
         },
-        "code": {
+        {
           "id": "GM0304",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030401",
-            "name": {
-              "local": "Sintet",
-              "en": "Sintet",
-              "slug": "sintet-gm030401"
-            },
-            "code": {
+          "name": {
+            "local": "Foni Jarrol",
+            "en": "Foni Jarrol",
+            "slug": "foni-jarrol-gm0304"
+          },
+          "code": {
+            "id": "GM0304",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030401",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030402",
-            "name": {
-              "local": "Wassadou",
-              "en": "Wassadou",
-              "slug": "wassadou-gm030402"
+              "name": {
+                "local": "Sintet",
+                "en": "Sintet",
+                "slug": "sintet-gm030401"
+              },
+              "code": {
+                "id": "GM030401",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030402",
-              "iso": null
+              "name": {
+                "local": "Wassadou",
+                "en": "Wassadou",
+                "slug": "wassadou-gm030402"
+              },
+              "code": {
+                "id": "GM030402",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0305",
-        "name": {
-          "local": "Foni Kansala",
-          "en": "Foni Kansala",
-          "slug": "foni-kansala-gm0305"
+          ]
         },
-        "code": {
+        {
           "id": "GM0305",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030501",
-            "name": {
-              "local": "Bwiam",
-              "en": "Bwiam",
-              "slug": "bwiam-gm030501"
-            },
-            "code": {
+          "name": {
+            "local": "Foni Kansala",
+            "en": "Foni Kansala",
+            "slug": "foni-kansala-gm0305"
+          },
+          "code": {
+            "id": "GM0305",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030501",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030502",
-            "name": {
-              "local": "Kanilai",
-              "en": "Kanilai",
-              "slug": "kanilai-gm030502"
+              "name": {
+                "local": "Bwiam",
+                "en": "Bwiam",
+                "slug": "bwiam-gm030501"
+              },
+              "code": {
+                "id": "GM030501",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030502",
-              "iso": null
+              "name": {
+                "local": "Kanilai",
+                "en": "Kanilai",
+                "slug": "kanilai-gm030502"
+              },
+              "code": {
+                "id": "GM030502",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0306",
-        "name": {
-          "local": "Kombo Central",
-          "en": "Kombo Central",
-          "slug": "kombo-central-gm0306"
+          ]
         },
-        "code": {
+        {
           "id": "GM0306",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030601",
-            "name": {
-              "local": "Kembujeh",
-              "en": "Kembujeh",
-              "slug": "kembujeh-gm030601"
-            },
-            "code": {
+          "name": {
+            "local": "Kombo Central",
+            "en": "Kombo Central",
+            "slug": "kombo-central-gm0306"
+          },
+          "code": {
+            "id": "GM0306",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030601",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030602",
-            "name": {
-              "local": "Marakissa",
-              "en": "Marakissa",
-              "slug": "marakissa-gm030602"
+              "name": {
+                "local": "Kembujeh",
+                "en": "Kembujeh",
+                "slug": "kembujeh-gm030601"
+              },
+              "code": {
+                "id": "GM030601",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030602",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030603",
-            "name": {
-              "local": "Nyambai",
-              "en": "Nyambai",
-              "slug": "nyambai-gm030603"
+              "name": {
+                "local": "Marakissa",
+                "en": "Marakissa",
+                "slug": "marakissa-gm030602"
+              },
+              "code": {
+                "id": "GM030602",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030603",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030604",
-            "name": {
-              "local": "Suba",
-              "en": "Suba",
-              "slug": "suba-gm030604"
+              "name": {
+                "local": "Nyambai",
+                "en": "Nyambai",
+                "slug": "nyambai-gm030603"
+              },
+              "code": {
+                "id": "GM030603",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030604",
-              "iso": null
+              "name": {
+                "local": "Suba",
+                "en": "Suba",
+                "slug": "suba-gm030604"
+              },
+              "code": {
+                "id": "GM030604",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0307",
-        "name": {
-          "local": "Kombo East",
-          "en": "Kombo East",
-          "slug": "kombo-east-gm0307"
+          ]
         },
-        "code": {
+        {
           "id": "GM0307",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030701",
-            "name": {
-              "local": "Giboro",
-              "en": "Giboro",
-              "slug": "giboro-gm030701"
-            },
-            "code": {
+          "name": {
+            "local": "Kombo East",
+            "en": "Kombo East",
+            "slug": "kombo-east-gm0307"
+          },
+          "code": {
+            "id": "GM0307",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030701",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030702",
-            "name": {
-              "local": "Kafuta",
-              "en": "Kafuta",
-              "slug": "kafuta-gm030702"
+              "name": {
+                "local": "Giboro",
+                "en": "Giboro",
+                "slug": "giboro-gm030701"
+              },
+              "code": {
+                "id": "GM030701",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030702",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030703",
-            "name": {
-              "local": "Pirang",
-              "en": "Pirang",
-              "slug": "pirang-gm030703"
+              "name": {
+                "local": "Kafuta",
+                "en": "Kafuta",
+                "slug": "kafuta-gm030702"
+              },
+              "code": {
+                "id": "GM030702",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030703",
-              "iso": null
+              "name": {
+                "local": "Pirang",
+                "en": "Pirang",
+                "slug": "pirang-gm030703"
+              },
+              "code": {
+                "id": "GM030703",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0308",
-        "name": {
-          "local": "Kombo North/St Marie",
-          "en": "Kombo North/St Marie",
-          "slug": "kombo-northst-marie-gm0308"
+          ]
         },
-        "code": {
+        {
           "id": "GM0308",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030801",
-            "name": {
-              "local": "Banjulunding",
-              "en": "Banjulunding",
-              "slug": "banjulunding-gm030801"
-            },
-            "code": {
+          "name": {
+            "local": "Kombo North/St Marie",
+            "en": "Kombo North/St Marie",
+            "slug": "kombo-northst-marie-gm0308"
+          },
+          "code": {
+            "id": "GM0308",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030801",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030802",
-            "name": {
-              "local": "Busumbala",
-              "en": "Busumbala",
-              "slug": "busumbala-gm030802"
+              "name": {
+                "local": "Banjulunding",
+                "en": "Banjulunding",
+                "slug": "banjulunding-gm030801"
+              },
+              "code": {
+                "id": "GM030801",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030802",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030803",
-            "name": {
-              "local": "Lamin",
-              "en": "Lamin",
-              "slug": "lamin-gm030803"
+              "name": {
+                "local": "Busumbala",
+                "en": "Busumbala",
+                "slug": "busumbala-gm030802"
+              },
+              "code": {
+                "id": "GM030802",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030803",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030804",
-            "name": {
-              "local": "Sukuta",
-              "en": "Sukuta",
-              "slug": "sukuta-gm030804"
+              "name": {
+                "local": "Lamin",
+                "en": "Lamin",
+                "slug": "lamin-gm030803"
+              },
+              "code": {
+                "id": "GM030803",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030804",
-              "iso": null
+              "name": {
+                "local": "Sukuta",
+                "en": "Sukuta",
+                "slug": "sukuta-gm030804"
+              },
+              "code": {
+                "id": "GM030804",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "GM0309",
-        "name": {
-          "local": "Kombo South",
-          "en": "Kombo South",
-          "slug": "kombo-south-gm0309"
+          ]
         },
-        "code": {
+        {
           "id": "GM0309",
-          "iso": null
-        },
-        "ward": [
-          {
-            "id": "GM030901",
-            "name": {
-              "local": "Gunjur",
-              "en": "Gunjur",
-              "slug": "gunjur-gm030901"
-            },
-            "code": {
+          "name": {
+            "local": "Kombo South",
+            "en": "Kombo South",
+            "slug": "kombo-south-gm0309"
+          },
+          "code": {
+            "id": "GM0309",
+            "iso": null
+          },
+          "ward": [
+            {
               "id": "GM030901",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030902",
-            "name": {
-              "local": "Karthong",
-              "en": "Karthong",
-              "slug": "karthong-gm030902"
+              "name": {
+                "local": "Gunjur",
+                "en": "Gunjur",
+                "slug": "gunjur-gm030901"
+              },
+              "code": {
+                "id": "GM030901",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030902",
-              "iso": null
-            }
-          },
-          {
-            "id": "GM030903",
-            "name": {
-              "local": "Sanyang",
-              "en": "Sanyang",
-              "slug": "sanyang-gm030903"
+              "name": {
+                "local": "Karthong",
+                "en": "Karthong",
+                "slug": "karthong-gm030902"
+              },
+              "code": {
+                "id": "GM030902",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "GM030903",
-              "iso": null
+              "name": {
+                "local": "Sanyang",
+                "en": "Sanyang",
+                "slug": "sanyang-gm030903"
+              },
+              "code": {
+                "id": "GM030903",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  }
-]
+          ]
+        }
+      ]
+    }
+  ]
+}

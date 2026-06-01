@@ -26,5 +26,9 @@
     "lon": "-16.13"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/north-bank-gm06/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

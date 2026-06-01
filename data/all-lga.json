@@ -27,7 +27,11 @@
       "lon": "-16.591"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/banjul-city-council-gm01/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM07",
@@ -57,7 +61,11 @@
       "lon": "-14.853"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/central-river-north-gm07/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM04",
@@ -87,7 +95,11 @@
       "lon": "-14.878"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/central-river-south-gm04/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM05",
@@ -117,7 +129,11 @@
       "lon": "-16.655"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/kanifing-municipal-council-gm05/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM08",
@@ -147,7 +163,11 @@
       "lon": "-15.704"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/lower-river-gm08/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM06",
@@ -177,7 +197,11 @@
       "lon": "-16.13"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/north-bank-gm06/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM02",
@@ -207,7 +231,11 @@
       "lon": "-14.148"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/upper-river-gm02/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   },
   {
     "id": "GM03",
@@ -237,6 +265,10 @@
       "lon": "-16.298"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gm/lgas/west-coast-gm03/",
+      "api": "https://openadmindata.org/api/gm/"
+    }
   }
 ]

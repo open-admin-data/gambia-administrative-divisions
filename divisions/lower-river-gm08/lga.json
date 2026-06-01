@@ -26,5 +26,9 @@
     "lon": "-15.704"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/lower-river-gm08/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

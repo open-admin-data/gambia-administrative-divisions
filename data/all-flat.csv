@@ -1,58 +1,59 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.lga,children_count.district,children_count.ward,zip_codes,geo.lat,geo.lon
-GM01,1,Local Government Area,Local Government Area,Banjul City Council,Banjul City Council,banjul-city-council-gm01,GM01,,,,,,3,9,,13.458,-16.591
-GM0101,2,District,District,Banjul Central,Banjul Central,banjul-central-gm0101,GM0101,,GM01,Banjul City Council,Banjul City Council,,,3,,13.454,-16.58
-GM0102,2,District,District,Banjul North,Banjul North,banjul-north-gm0102,GM0102,,GM01,Banjul City Council,Banjul City Council,,,3,,13.458,-16.594
-GM0103,2,District,District,Banjul South,Banjul South,banjul-south-gm0103,GM0103,,GM01,Banjul City Council,Banjul City Council,,,3,,13.449,-16.576
-GM02,1,Local Government Area,Local Government Area,Upper River,Upper River,upper-river-gm02,GM02,,,,,,7,14,,13.398,-14.148
-GM0201,2,District,District,Basse,Basse,basse-gm0201,GM0201,,GM02,Upper River,Upper River,,,2,,13.292,-14.201
-GM0202,2,District,District,Kantora,Kantora,kantora-gm0202,GM0202,,GM02,Upper River,Upper River,,,2,,13.414,-13.839
-GM0203,2,District,District,Sandu,Sandu,sandu-gm0203,GM0203,,GM02,Upper River,Upper River,,,2,,13.426,-14.375
-GM0204,2,District,District,Jimara,Jimara,jimara-gm0204,GM0204,,GM02,Upper River,Upper River,,,2,,13.327,-14.45
-GM0205,2,District,District,Tumana,Tumana,tumana-gm0205,GM0205,,GM02,Upper River,Upper River,,,2,,13.369,-14.085
-GM0206,2,District,District,Wuli West,Wuli West,wuli-west-gm0206,GM0206,,GM02,Upper River,Upper River,,,2,,13.431,-14.171
-GM0207,2,District,District,Wuli East,Wuli East,wuli-east-gm0207,GM0207,,GM02,Upper River,Upper River,,,2,,13.484,-14
-GM03,1,Local Government Area,Local Government Area,West Coast,West Coast,west-coast-gm03,GM03,,,,,,9,24,,13.244,-16.298
-GM0301,2,District,District,Foni Bintang Karenai,Foni Bintang Karenai,foni-bintang-karenai-gm0301,GM0301,,GM03,West Coast,West Coast,,,2,,13.246,-16.233
-GM0302,2,District,District,Foni Bondali,Foni Bondali,foni-bondali-gm0302,GM0302,,GM03,West Coast,West Coast,,,2,,13.23,-15.943
-GM0303,2,District,District,Foni Brefet,Foni Brefet,foni-brefet-gm0303,GM0303,,GM03,West Coast,West Coast,,,2,,13.217,-16.345
-GM0304,2,District,District,Foni Jarrol,Foni Jarrol,foni-jarrol-gm0304,GM0304,,GM03,West Coast,West Coast,,,2,,13.223,-15.841
-GM0305,2,District,District,Foni Kansala,Foni Kansala,foni-kansala-gm0305,GM0305,,GM03,West Coast,West Coast,,,2,,13.232,-16.069
-GM0306,2,District,District,Kombo Central,Kombo Central,kombo-central-gm0306,GM0306,,GM03,West Coast,West Coast,,,4,,13.251,-16.668
-GM0307,2,District,District,Kombo East,Kombo East,kombo-east-gm0307,GM0307,,GM03,West Coast,West Coast,,,3,,13.25,-16.506
-GM0308,2,District,District,Kombo North/St Marie,Kombo North/St Marie,kombo-northst-marie-gm0308,GM0308,,GM03,West Coast,West Coast,,,4,,13.381,-16.701
-GM0309,2,District,District,Kombo South,Kombo South,kombo-south-gm0309,GM0309,,GM03,West Coast,West Coast,,,3,,13.204,-16.731
-GM04,1,Local Government Area,Local Government Area,Central River South,Central River South,central-river-south-gm04,GM04,,,,,,6,12,,13.523,-14.878
-GM0401,2,District,District,Lower Fuladu West,Lower Fuladu West,lower-fuladu-west-gm0401,GM0401,,GM04,Central River South,Central River South,,,3,,13.525,-14.911
-GM0402,2,District,District,Janjanbureh,Janjanbureh,janjanbureh-gm0402,GM0402,,GM04,Central River South,Central River South,,,1,,13.541,-14.775
-GM0403,2,District,District,Niamina Dankunku,Niamina Dankunku,niamina-dankunku-gm0403,GM0403,,GM04,Central River South,Central River South,,,1,,13.604,-15.326
-GM0404,2,District,District,Niamina East,Niamina East,niamina-east-gm0404,GM0404,,GM04,Central River South,Central River South,,,2,,13.634,-15.085
-GM0405,2,District,District,Niamina West,Niamina West,niamina-west-gm0405,GM0405,,GM04,Central River South,Central River South,,,1,,13.575,-15.245
-GM0406,2,District,District,Upper Fuladu West,Upper Fuladu West,upper-fuladu-west-gm0406,GM0406,,GM04,Central River South,Central River South,,,4,,13.444,-14.736
-GM05,1,Local Government Area,Local Government Area,Kanifing Municipal Council,Kanifing Municipal Council,kanifing-municipal-council-gm05,GM05,,,,,,6,18,,13.435,-16.655
-GM0501,2,District,District,Bakau,Bakau,bakau-gm0501,GM0501,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,2,,13.471,-16.666
-GM0502,2,District,District,Jeshwang,Jeshwang,jeshwang-gm0502,GM0502,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,3,,13.451,-16.667
-GM0503,2,District,District,Mangrove,Mangrove,mangrove-gm0503,GM0503,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,1,,13.424,-16.627
-GM0504,2,District,District,Sere Kunda Central,Sere Kunda Central,sere-kunda-central-gm0504,GM0504,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,3,,13.431,-16.683
-GM0505,2,District,District,Sere Kunda East,Sere Kunda East,sere-kunda-east-gm0505,GM0505,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,4,,13.411,-16.661
-GM0506,2,District,District,Sere Kunda West,Sere Kunda West,sere-kunda-west-gm0506,GM0506,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,5,,13.446,-16.7
-GM06,1,Local Government Area,Local Government Area,North Bank,North Bank,north-bank-gm06,GM06,,,,,,7,16,,13.487,-16.13
-GM0601,2,District,District,Central Baddibu,Central Baddibu,central-baddibu-gm0601,GM0601,,GM06,North Bank,North Bank,,,2,,13.519,-15.92
-GM0602,2,District,District,Jokadu,Jokadu,jokadu-gm0602,GM0602,,GM06,North Bank,North Bank,,,3,,13.511,-16.149
-GM0603,2,District,District,Lower Baddibu,Lower Baddibu,lower-baddibu-gm0603,GM0603,,GM06,North Bank,North Bank,,,1,,13.519,-16.034
-GM0604,2,District,District,Lower Niumi,Lower Niumi,lower-niumi-gm0604,GM0604,,GM06,North Bank,North Bank,,,2,,13.506,-16.427
-GM0605,2,District,District,Illiassa,Illiassa,illiassa-gm0605,GM0605,,GM06,North Bank,North Bank,,,4,,13.524,-15.703
-GM0606,2,District,District,Upper Niumi,Upper Niumi,upper-niumi-gm0606,GM0606,,GM06,North Bank,North Bank,,,2,,13.43,-16.338
-GM0607,2,District,District,Sabach - Sanjal,Sabach - Sanjal,sabach-sanjal-gm0607,GM0607,,GM06,North Bank,North Bank,,,2,,13.545,-15.47
-GM07,1,Local Government Area,Local Government Area,Central River North,Central River North,central-river-north-gm07,GM07,,,,,,5,10,,13.628,-14.853
-GM0701,2,District,District,Lower Saloum,Lower Saloum,lower-saloum-gm0701,GM0701,,GM07,Central River North,Central River North,,,2,,13.704,-15.364
-GM0702,2,District,District,Niani,Niani,niani-gm0702,GM0702,,GM07,Central River North,Central River North,,,2,,13.675,-14.845
-GM0703,2,District,District,Nianija,Nianija,nianija-gm0703,GM0703,,GM07,Central River North,Central River North,,,1,,13.717,-15.129
-GM0704,2,District,District,Sami,Sami,sami-gm0704,GM0704,,GM07,Central River North,Central River North,,,3,,13.545,-14.694
-GM0705,2,District,District,Upper Saloum,Upper Saloum,upper-saloum-gm0705,GM0705,,GM07,Central River North,Central River North,,,2,,13.733,-15.247
-GM08,1,Local Government Area,Local Government Area,Lower River,Lower River,lower-river-gm08,GM08,,,,,,6,12,,13.4,-15.704
-GM0801,2,District,District,Jarra Central,Jarra Central,jarra-central-gm0801,GM0801,,GM08,Lower River,Lower River,,,2,,13.413,-15.415
-GM0802,2,District,District,Jarra East,Jarra East,jarra-east-gm0802,GM0802,,GM08,Lower River,Lower River,,,2,,13.452,-15.261
-GM0803,2,District,District,Jarra West,Jarra West,jarra-west-gm0803,GM0803,,GM08,Lower River,Lower River,,,2,,13.444,-15.542
-GM0804,2,District,District,Kiang Central,Kiang Central,kiang-central-gm0804,GM0804,,GM08,Lower River,Lower River,,,2,,13.409,-15.756
-GM0805,2,District,District,Kiang East,Kiang East,kiang-east-gm0805,GM0805,,GM08,Lower River,Lower River,,,2,,13.418,-15.644
-GM0806,2,District,District,Kiang West,Kiang West,kiang-west-gm0806,GM0806,,GM08,Lower River,Lower River,,,2,,13.345,-16.009
+# Data from Open Admin Data (https://openadmindata.org/gm/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/gambia-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.lga,children_count.district,children_count.ward,zip_codes,geo.lat,geo.lon,source_url
+GM01,1,Local Government Area,Local Government Area,Banjul City Council,Banjul City Council,banjul-city-council-gm01,GM01,,,,,,3,9,,13.458,-16.591,https://openadmindata.org/gm/lgas/banjul-city-council-gm01/
+GM0101,2,District,District,Banjul Central,Banjul Central,banjul-central-gm0101,GM0101,,GM01,Banjul City Council,Banjul City Council,,,3,,13.454,-16.58,
+GM0102,2,District,District,Banjul North,Banjul North,banjul-north-gm0102,GM0102,,GM01,Banjul City Council,Banjul City Council,,,3,,13.458,-16.594,
+GM0103,2,District,District,Banjul South,Banjul South,banjul-south-gm0103,GM0103,,GM01,Banjul City Council,Banjul City Council,,,3,,13.449,-16.576,
+GM02,1,Local Government Area,Local Government Area,Upper River,Upper River,upper-river-gm02,GM02,,,,,,7,14,,13.398,-14.148,https://openadmindata.org/gm/lgas/upper-river-gm02/
+GM0201,2,District,District,Basse,Basse,basse-gm0201,GM0201,,GM02,Upper River,Upper River,,,2,,13.292,-14.201,
+GM0202,2,District,District,Kantora,Kantora,kantora-gm0202,GM0202,,GM02,Upper River,Upper River,,,2,,13.414,-13.839,
+GM0203,2,District,District,Sandu,Sandu,sandu-gm0203,GM0203,,GM02,Upper River,Upper River,,,2,,13.426,-14.375,
+GM0204,2,District,District,Jimara,Jimara,jimara-gm0204,GM0204,,GM02,Upper River,Upper River,,,2,,13.327,-14.45,
+GM0205,2,District,District,Tumana,Tumana,tumana-gm0205,GM0205,,GM02,Upper River,Upper River,,,2,,13.369,-14.085,
+GM0206,2,District,District,Wuli West,Wuli West,wuli-west-gm0206,GM0206,,GM02,Upper River,Upper River,,,2,,13.431,-14.171,
+GM0207,2,District,District,Wuli East,Wuli East,wuli-east-gm0207,GM0207,,GM02,Upper River,Upper River,,,2,,13.484,-14,
+GM03,1,Local Government Area,Local Government Area,West Coast,West Coast,west-coast-gm03,GM03,,,,,,9,24,,13.244,-16.298,https://openadmindata.org/gm/lgas/west-coast-gm03/
+GM0301,2,District,District,Foni Bintang Karenai,Foni Bintang Karenai,foni-bintang-karenai-gm0301,GM0301,,GM03,West Coast,West Coast,,,2,,13.246,-16.233,
+GM0302,2,District,District,Foni Bondali,Foni Bondali,foni-bondali-gm0302,GM0302,,GM03,West Coast,West Coast,,,2,,13.23,-15.943,
+GM0303,2,District,District,Foni Brefet,Foni Brefet,foni-brefet-gm0303,GM0303,,GM03,West Coast,West Coast,,,2,,13.217,-16.345,
+GM0304,2,District,District,Foni Jarrol,Foni Jarrol,foni-jarrol-gm0304,GM0304,,GM03,West Coast,West Coast,,,2,,13.223,-15.841,
+GM0305,2,District,District,Foni Kansala,Foni Kansala,foni-kansala-gm0305,GM0305,,GM03,West Coast,West Coast,,,2,,13.232,-16.069,
+GM0306,2,District,District,Kombo Central,Kombo Central,kombo-central-gm0306,GM0306,,GM03,West Coast,West Coast,,,4,,13.251,-16.668,
+GM0307,2,District,District,Kombo East,Kombo East,kombo-east-gm0307,GM0307,,GM03,West Coast,West Coast,,,3,,13.25,-16.506,
+GM0308,2,District,District,Kombo North/St Marie,Kombo North/St Marie,kombo-northst-marie-gm0308,GM0308,,GM03,West Coast,West Coast,,,4,,13.381,-16.701,
+GM0309,2,District,District,Kombo South,Kombo South,kombo-south-gm0309,GM0309,,GM03,West Coast,West Coast,,,3,,13.204,-16.731,
+GM04,1,Local Government Area,Local Government Area,Central River South,Central River South,central-river-south-gm04,GM04,,,,,,6,12,,13.523,-14.878,https://openadmindata.org/gm/lgas/central-river-south-gm04/
+GM0401,2,District,District,Lower Fuladu West,Lower Fuladu West,lower-fuladu-west-gm0401,GM0401,,GM04,Central River South,Central River South,,,3,,13.525,-14.911,
+GM0402,2,District,District,Janjanbureh,Janjanbureh,janjanbureh-gm0402,GM0402,,GM04,Central River South,Central River South,,,1,,13.541,-14.775,
+GM0403,2,District,District,Niamina Dankunku,Niamina Dankunku,niamina-dankunku-gm0403,GM0403,,GM04,Central River South,Central River South,,,1,,13.604,-15.326,
+GM0404,2,District,District,Niamina East,Niamina East,niamina-east-gm0404,GM0404,,GM04,Central River South,Central River South,,,2,,13.634,-15.085,
+GM0405,2,District,District,Niamina West,Niamina West,niamina-west-gm0405,GM0405,,GM04,Central River South,Central River South,,,1,,13.575,-15.245,
+GM0406,2,District,District,Upper Fuladu West,Upper Fuladu West,upper-fuladu-west-gm0406,GM0406,,GM04,Central River South,Central River South,,,4,,13.444,-14.736,
+GM05,1,Local Government Area,Local Government Area,Kanifing Municipal Council,Kanifing Municipal Council,kanifing-municipal-council-gm05,GM05,,,,,,6,18,,13.435,-16.655,https://openadmindata.org/gm/lgas/kanifing-municipal-council-gm05/
+GM0501,2,District,District,Bakau,Bakau,bakau-gm0501,GM0501,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,2,,13.471,-16.666,
+GM0502,2,District,District,Jeshwang,Jeshwang,jeshwang-gm0502,GM0502,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,3,,13.451,-16.667,
+GM0503,2,District,District,Mangrove,Mangrove,mangrove-gm0503,GM0503,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,1,,13.424,-16.627,
+GM0504,2,District,District,Sere Kunda Central,Sere Kunda Central,sere-kunda-central-gm0504,GM0504,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,3,,13.431,-16.683,
+GM0505,2,District,District,Sere Kunda East,Sere Kunda East,sere-kunda-east-gm0505,GM0505,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,4,,13.411,-16.661,
+GM0506,2,District,District,Sere Kunda West,Sere Kunda West,sere-kunda-west-gm0506,GM0506,,GM05,Kanifing Municipal Council,Kanifing Municipal Council,,,5,,13.446,-16.7,
+GM06,1,Local Government Area,Local Government Area,North Bank,North Bank,north-bank-gm06,GM06,,,,,,7,16,,13.487,-16.13,https://openadmindata.org/gm/lgas/north-bank-gm06/
+GM0601,2,District,District,Central Baddibu,Central Baddibu,central-baddibu-gm0601,GM0601,,GM06,North Bank,North Bank,,,2,,13.519,-15.92,
+GM0602,2,District,District,Jokadu,Jokadu,jokadu-gm0602,GM0602,,GM06,North Bank,North Bank,,,3,,13.511,-16.149,
+GM0603,2,District,District,Lower Baddibu,Lower Baddibu,lower-baddibu-gm0603,GM0603,,GM06,North Bank,North Bank,,,1,,13.519,-16.034,
+GM0604,2,District,District,Lower Niumi,Lower Niumi,lower-niumi-gm0604,GM0604,,GM06,North Bank,North Bank,,,2,,13.506,-16.427,
+GM0605,2,District,District,Illiassa,Illiassa,illiassa-gm0605,GM0605,,GM06,North Bank,North Bank,,,4,,13.524,-15.703,
+GM0606,2,District,District,Upper Niumi,Upper Niumi,upper-niumi-gm0606,GM0606,,GM06,North Bank,North Bank,,,2,,13.43,-16.338,
+GM0607,2,District,District,Sabach - Sanjal,Sabach - Sanjal,sabach-sanjal-gm0607,GM0607,,GM06,North Bank,North Bank,,,2,,13.545,-15.47,
+GM07,1,Local Government Area,Local Government Area,Central River North,Central River North,central-river-north-gm07,GM07,,,,,,5,10,,13.628,-14.853,https://openadmindata.org/gm/lgas/central-river-north-gm07/
+GM0701,2,District,District,Lower Saloum,Lower Saloum,lower-saloum-gm0701,GM0701,,GM07,Central River North,Central River North,,,2,,13.704,-15.364,
+GM0702,2,District,District,Niani,Niani,niani-gm0702,GM0702,,GM07,Central River North,Central River North,,,2,,13.675,-14.845,
+GM0703,2,District,District,Nianija,Nianija,nianija-gm0703,GM0703,,GM07,Central River North,Central River North,,,1,,13.717,-15.129,
+GM0704,2,District,District,Sami,Sami,sami-gm0704,GM0704,,GM07,Central River North,Central River North,,,3,,13.545,-14.694,
+GM0705,2,District,District,Upper Saloum,Upper Saloum,upper-saloum-gm0705,GM0705,,GM07,Central River North,Central River North,,,2,,13.733,-15.247,
+GM08,1,Local Government Area,Local Government Area,Lower River,Lower River,lower-river-gm08,GM08,,,,,,6,12,,13.4,-15.704,https://openadmindata.org/gm/lgas/lower-river-gm08/
+GM0801,2,District,District,Jarra Central,Jarra Central,jarra-central-gm0801,GM0801,,GM08,Lower River,Lower River,,,2,,13.413,-15.415,
+GM0802,2,District,District,Jarra East,Jarra East,jarra-east-gm0802,GM0802,,GM08,Lower River,Lower River,,,2,,13.452,-15.261,
+GM0803,2,District,District,Jarra West,Jarra West,jarra-west-gm0803,GM0803,,GM08,Lower River,Lower River,,,2,,13.444,-15.542,
+GM0804,2,District,District,Kiang Central,Kiang Central,kiang-central-gm0804,GM0804,,GM08,Lower River,Lower River,,,2,,13.409,-15.756,
+GM0805,2,District,District,Kiang East,Kiang East,kiang-east-gm0805,GM0805,,GM08,Lower River,Lower River,,,2,,13.418,-15.644,
+GM0806,2,District,District,Kiang West,Kiang West,kiang-west-gm0806,GM0806,,GM08,Lower River,Lower River,,,2,,13.345,-16.009,

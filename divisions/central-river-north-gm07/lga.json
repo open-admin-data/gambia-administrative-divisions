@@ -26,5 +26,9 @@
     "lon": "-14.853"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/central-river-north-gm07/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

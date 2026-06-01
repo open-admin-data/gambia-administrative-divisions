@@ -26,5 +26,9 @@
     "lon": "-16.591"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/banjul-city-council-gm01/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

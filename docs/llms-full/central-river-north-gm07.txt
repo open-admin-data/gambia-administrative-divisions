@@ -3,7 +3,7 @@
 > 5 districts, 10 wards
 > Code: GM07
 > Coordinates: 13.628, -14.853
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

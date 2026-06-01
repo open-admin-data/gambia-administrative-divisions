@@ -26,5 +26,9 @@
     "lon": "-14.148"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/upper-river-gm02/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

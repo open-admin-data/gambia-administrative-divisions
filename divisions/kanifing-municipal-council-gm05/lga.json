@@ -26,5 +26,9 @@
     "lon": "-16.655"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/kanifing-municipal-council-gm05/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

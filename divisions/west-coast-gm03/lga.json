@@ -26,5 +26,9 @@
     "lon": "-16.298"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/west-coast-gm03/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }

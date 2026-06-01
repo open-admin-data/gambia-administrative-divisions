@@ -26,5 +26,9 @@
     "lon": "-14.878"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gm/lgas/central-river-south-gm04/",
+    "api": "https://openadmindata.org/api/gm/"
+  }
 }
