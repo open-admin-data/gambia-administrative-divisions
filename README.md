@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/gm](https://openadmindata.org/gm/) |
 | API | [openadmindata.org/api/gm](https://openadmindata.org/api/gm/) |
+| National Anthem | [🎵 Listen & Download Gambia National Anthem MP3](https://onlygames.me/national-anthems/gm/) |
 
 ## Browse by Local Government Area
 
