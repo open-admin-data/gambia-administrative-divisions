@@ -3,7 +3,7 @@
 > 6 districts, 12 wards
 > Code: GM08
 > Coordinates: 13.4, -15.704
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 

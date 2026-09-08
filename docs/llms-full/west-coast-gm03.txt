@@ -3,7 +3,7 @@
 > 9 districts, 24 wards
 > Code: GM03
 > Coordinates: 13.244, -16.298
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 
